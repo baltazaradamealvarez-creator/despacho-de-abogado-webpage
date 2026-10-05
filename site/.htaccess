@@ -1,0 +1,59 @@
+# González Armendáriz: .htaccess de referencia (Apache). En WordPress, colocar ANTES del bloque "# BEGIN WordPress".
+# Probar en staging. Si el hosting usa Nginx o LiteSpeed, traducir estas reglas.
+
+# ---------- 1. HTTPS y dominio canónico sin www (una sola redirección 301) ----------
+RewriteEngine On
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{HTTP_HOST} ^www\. [NC]
+RewriteRule ^(.*)$ https://gonzalezarmendariz.com/$1 [L,R=301]
+
+# ---------- 2. Redirecciones 301 de URLs antiguas ----------
+# [PENDIENTE] Completar con el rastreo del sitio actual (ver docs/02-mapa-del-sitio.md). Ejemplos:
+Redirect 301 /beta/index.php/nota01/ https://gonzalezarmendariz.com/perspectivas/aguinaldo-calculo-y-fecha-limite/
+RedirectMatch 301 ^/beta/.*$ https://gonzalezarmendariz.com/
+# Redirect 301 /contabilidad/ https://gonzalezarmendariz.com/servicios/contabilidad-empresas-monterrey/
+# Redirect 301 /auditoria/ https://gonzalezarmendariz.com/servicios/auditoria-monterrey/
+# Redirect 301 /asesoria-fiscal/ https://gonzalezarmendariz.com/servicios/asesoria-fiscal-monterrey/
+# Redirect 301 /blog/ https://gonzalezarmendariz.com/perspectivas/
+# Contenido eliminado sin reemplazo: 410
+# Redirect gone /noticia-caducada/
+
+# ---------- 3. Compresión ----------
+<IfModule mod_brotli.c>
+  AddOutputFilterByType BROTLI_COMPRESS text/html text/css application/javascript application/json image/svg+xml application/xml
+</IfModule>
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css application/javascript application/json image/svg+xml application/xml
+</IfModule>
+
+# ---------- 4. Caché del navegador ----------
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresDefault "access plus 1 hour"
+  ExpiresByType text/html "access plus 0 seconds"
+  ExpiresByType text/css "access plus 1 year"
+  ExpiresByType application/javascript "access plus 1 year"
+  ExpiresByType image/webp "access plus 1 year"
+  ExpiresByType image/avif "access plus 1 year"
+  ExpiresByType image/jpeg "access plus 1 year"
+  ExpiresByType image/png "access plus 1 year"
+  ExpiresByType image/svg+xml "access plus 1 year"
+  ExpiresByType font/woff2 "access plus 1 year"
+</IfModule>
+# Nota: con caché de 1 año, versionar CSS/JS al cambiarlos (main.css?v=2 o main.2.css).
+
+# ---------- 5. Cabeceras de seguridad ----------
+<IfModule mod_headers.c>
+  Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains"
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+  Header always set X-Frame-Options "SAMEORIGIN"
+  Header always set Permissions-Policy "camera=(), microphone=(), geolocation=()"
+  # Las landing pages no deben indexarse aunque se enlacen desde fuera
+  <If "%{REQUEST_URI} =~ m#^/(lp|gracias|en/thank-you)/#">
+    Header set X-Robots-Tag "noindex, follow"
+  </If>
+</IfModule>
+
+# ---------- 6. Sin listado de directorios ----------
+Options -Indexes

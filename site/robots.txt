@@ -1,0 +1,12 @@
+# González Armendáriz: robots.txt
+# Las landing pages (/lp/) y /gracias/ NO se bloquean aquí: llevan <meta name="robots" content="noindex">
+# y Google necesita rastrearlas para ver esa etiqueta. /beta/ tampoco se bloquea: debe redirigir con 301.
+User-agent: *
+Allow: /
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /?s=
+Disallow: /*?s=
+Disallow: /*?replytocom=
+
+Sitemap: https://gonzalezarmendariz.com/sitemap.xml

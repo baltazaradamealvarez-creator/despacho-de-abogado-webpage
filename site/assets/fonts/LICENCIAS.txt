@@ -1,0 +1,7 @@
+Fuentes incluidas (subconjunto latino, formato WOFF2 variable), descargadas de Google Fonts:
+
+- Inter — © The Inter Project Authors (https://github.com/rsms/inter)
+- Cormorant Garamond — © Christian Thalmann (https://github.com/CatharsisFonts/Cormorant)
+
+Ambas se distribuyen bajo la SIL Open Font License, versión 1.1:
+https://openfontlicense.org — permite usarlas, incrustarlas y redistribuirlas en sitios web, incluso con fines comerciales.

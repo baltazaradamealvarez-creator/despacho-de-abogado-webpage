@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Sitemap de referencia. En WordPress lo genera Rank Math/Yoast + Polylang/WPML con estas mismas URLs y alternates.
+     Las landing pages (/lp/) y /gracias/ NO se incluyen (noindex). Agregar artículos de /perspectivas/ al publicarlos. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://gonzalezarmendariz.com/</loc>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://gonzalezarmendariz.com/"/>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://gonzalezarmendariz.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gonzalezarmendariz.com/"/>
+  </url>
+  <url>
+    <loc>https://gonzalezarmendariz.com/en/</loc>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://gonzalezarmendariz.com/"/>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://gonzalezarmendariz.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gonzalezarmendariz.com/"/>
+  </url>
+  <url>
+    <loc>https://gonzalezarmendariz.com/servicios/</loc>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://gonzalezarmendariz.com/servicios/"/>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://gonzalezarmendariz.com/en/services/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gonzalezarmendariz.com/servicios/"/>
+  </url>
+  <url>
+    <loc>https://gonzalezarmendariz.com/en/services/</loc>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://gonzalezarmendariz.com/servicios/"/>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://gonzalezarmendariz.com/en/services/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gonzalezarmendariz.com/servicios/"/>
+  </url>
+  <url>
+    <loc>https://gonzalezarmendariz.com/servicios/contabilidad-empresas-monterrey/</loc>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://gonzalezarmendariz.com/servicios/contabilidad-empresas-monterrey/"/>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://gonzalezarmendariz.com/en/services/accounting-monterrey/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gonzalezarmendariz.com/servicios/contabilidad-empresas-monterrey/"/>
+  </url>
+  <url>
+    <loc>https://gonzalezarmendariz.com/en/services/accounting-monterrey/</loc>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://gonzalezarmendariz.com/servicios/contabilidad-empresas-monterrey/"/>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://gonzalezarmendariz.com/en/services/accounting-monterrey/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gonzalezarmendariz.com/servicios/contabilidad-empresas-monterrey/"/>
+  </url>
+  <url>
+    <loc>https://gonzalezarmendariz.com/servicios/asesoria-fiscal-monterrey/</loc>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://gonzalezarmendariz.com/servicios/asesoria-fiscal-monterrey/"/>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://gonzalezarmendariz.com/en/services/tax-advisory-monterrey/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gonzalezarmendariz.com/servicios/asesoria-fiscal-monterrey/"/>
+  </url>
+  <url>
+    <loc>https://gonzalezarmendariz.com/en/services/tax-advisory-monterrey/</loc>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://gonzalezarmendariz.com/servicios/asesoria-fiscal-monterrey/"/>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://gonzalezarmendariz.com/en/services/tax-advisory-monterrey/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gonzalezarmendariz.com/servicios/asesoria-fiscal-monterrey/"/>
+  </url>
+  <url>
+    <loc>https://gonzalezarmendariz.com/servicios/auditoria-monterrey/</loc>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://gonzalezarmendariz.com/servicios/auditoria-monterrey/"/>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://gonzalezarmendariz.com/en/services/audit-monterrey/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gonzalezarmendariz.com/servicios/auditoria-monterrey/"/>
+  </url>
+  <url>
+    <loc>https://gonzalezarmendariz.com/en/services/audit-monterrey/</loc>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://gonzalezarmendariz.com/servicios/auditoria-monterrey/"/>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://gonzalezarmendariz.com/en/services/audit-monterrey/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gonzalezarmendariz.com/servicios/auditoria-monterrey/"/>
+  </url>
+  <url>
+    <loc>https://gonzalezarmendariz.com/servicios/consultoria-de-negocios-monterrey/</loc>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://gonzalezarmendariz.com/servicios/consultoria-de-negocios-monterrey/"/>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://gonzalezarmendariz.com/en/services/business-consulting-monterrey/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gonzalezarmendariz.com/servicios/consultoria-de-negocios-monterrey/"/>
+  </url>
+  <url>
+    <loc>https://gonzalezarmendariz.com/en/services/business-consulting-monterrey/</loc>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://gonzalezarmendariz.com/servicios/consultoria-de-negocios-monterrey/"/>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://gonzalezarmendariz.com/en/services/business-consulting-monterrey/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gonzalezarmendariz.com/servicios/consultoria-de-negocios-monterrey/"/>
+  </url>
+  <url>
+    <loc>https://gonzalezarmendariz.com/servicios/outsourcing-administrativo-monterrey/</loc>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://gonzalezarmendariz.com/servicios/outsourcing-administrativo-monterrey/"/>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://gonzalezarmendariz.com/en/services/administrative-outsourcing-monterrey/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gonzalezarmendariz.com/servicios/outsourcing-administrativo-monterrey/"/>
+  </url>
+  <url>
+    <loc>https://gonzalezarmendariz.com/en/services/administrative-outsourcing-monterrey/</loc>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://gonzalezarmendariz.com/servicios/outsourcing-administrativo-monterrey/"/>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://gonzalezarmendariz.com/en/services/administrative-outsourcing-monterrey/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gonzalezarmendariz.com/servicios/outsourcing-administrativo-monterrey/"/>
+  </url>
+  <url>
+    <loc>https://gonzalezarmendariz.com/nosotros/</loc>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://gonzalezarmendariz.com/nosotros/"/>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://gonzalezarmendariz.com/en/about/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gonzalezarmendariz.com/nosotros/"/>
+  </url>
+  <url>
+    <loc>https://gonzalezarmendariz.com/en/about/</loc>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://gonzalezarmendariz.com/nosotros/"/>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://gonzalezarmendariz.com/en/about/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gonzalezarmendariz.com/nosotros/"/>
+  </url>
+  <url>
+    <loc>https://gonzalezarmendariz.com/equipo/</loc>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://gonzalezarmendariz.com/equipo/"/>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://gonzalezarmendariz.com/en/team/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gonzalezarmendariz.com/equipo/"/>
+  </url>
+  <url>
+    <loc>https://gonzalezarmendariz.com/en/team/</loc>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://gonzalezarmendariz.com/equipo/"/>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://gonzalezarmendariz.com/en/team/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gonzalezarmendariz.com/equipo/"/>
+  </url>
+  <url>
+    <loc>https://gonzalezarmendariz.com/perspectivas/</loc>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://gonzalezarmendariz.com/perspectivas/"/>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://gonzalezarmendariz.com/en/insights/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gonzalezarmendariz.com/perspectivas/"/>
+  </url>
+  <url>
+    <loc>https://gonzalezarmendariz.com/en/insights/</loc>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://gonzalezarmendariz.com/perspectivas/"/>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://gonzalezarmendariz.com/en/insights/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gonzalezarmendariz.com/perspectivas/"/>
+  </url>
+  <url>
+    <loc>https://gonzalezarmendariz.com/contacto/</loc>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://gonzalezarmendariz.com/contacto/"/>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://gonzalezarmendariz.com/en/contact/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gonzalezarmendariz.com/contacto/"/>
+  </url>
+  <url>
+    <loc>https://gonzalezarmendariz.com/en/contact/</loc>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://gonzalezarmendariz.com/contacto/"/>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://gonzalezarmendariz.com/en/contact/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gonzalezarmendariz.com/contacto/"/>
+  </url>
+  <url>
+    <loc>https://gonzalezarmendariz.com/bolsa-de-trabajo/</loc>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://gonzalezarmendariz.com/bolsa-de-trabajo/"/>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://gonzalezarmendariz.com/en/careers/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gonzalezarmendariz.com/bolsa-de-trabajo/"/>
+  </url>
+  <url>
+    <loc>https://gonzalezarmendariz.com/en/careers/</loc>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://gonzalezarmendariz.com/bolsa-de-trabajo/"/>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://gonzalezarmendariz.com/en/careers/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gonzalezarmendariz.com/bolsa-de-trabajo/"/>
+  </url>
+  <url>
+    <loc>https://gonzalezarmendariz.com/aviso-de-privacidad/</loc>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://gonzalezarmendariz.com/aviso-de-privacidad/"/>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://gonzalezarmendariz.com/en/privacy-notice/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gonzalezarmendariz.com/aviso-de-privacidad/"/>
+  </url>
+  <url>
+    <loc>https://gonzalezarmendariz.com/en/privacy-notice/</loc>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://gonzalezarmendariz.com/aviso-de-privacidad/"/>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://gonzalezarmendariz.com/en/privacy-notice/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gonzalezarmendariz.com/aviso-de-privacidad/"/>
+  </url>
+</urlset>
