@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://gonzalezarmendariz.com/en/insights/REEMPLAZAR-SLUG/#article",
+      "url": "https://gonzalezarmendariz.com/en/insights/REEMPLAZAR-SLUG/",
+      "headline": "[PENDIENTE: título real del artículo]",
+      "description": "[PENDIENTE: resumen visible]",
+      "inLanguage": "en-US",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://gonzalezarmendariz.com/en/insights/REEMPLAZAR-SLUG/"
+      },
+      "publisher": {
+        "@id": "https://gonzalezarmendariz.com/#organization"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "[PENDIENTE: autor real y autorizado]"
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://gonzalezarmendariz.com/#organization",
+      "name": "González Armendáriz",
+      "url": "https://gonzalezarmendariz.com/"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://gonzalezarmendariz.com/en/insights/REEMPLAZAR-SLUG/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://gonzalezarmendariz.com/en/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Insights",
+          "item": "https://gonzalezarmendariz.com/en/insights/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "[PENDIENTE: título real del artículo]",
+          "item": "https://gonzalezarmendariz.com/en/insights/REEMPLAZAR-SLUG/"
+        }
+      ]
+    }
+  ]
+}

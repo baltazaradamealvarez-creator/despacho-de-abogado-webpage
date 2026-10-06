@@ -1,0 +1,23 @@
+# Render Blueprint: serves the generated HTML directly, with no app server.
+services:
+  - type: web
+    name: gonzalez-armendariz
+    runtime: static
+    branch: claude/rediseno-gonzalez-armendariz
+    buildCommand: "true"
+    staticPublishPath: ./site
+    autoDeployTrigger: commit
+    headers:
+      - path: /*
+        name: X-Content-Type-Options
+        value: nosniff
+      - path: /*
+        name: Referrer-Policy
+        value: strict-origin-when-cross-origin
+      - path: /*
+        name: X-Frame-Options
+        value: SAMEORIGIN
+    routes:
+      - type: redirect
+        source: /lp/contabilidad-empresas/
+        destination: /lp/contabilidad/

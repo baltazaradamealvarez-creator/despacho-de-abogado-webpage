@@ -1,0 +1,350 @@
+{
+  "/": [
+    {
+      "q": "¿Pueden trabajar con una empresa que ya tiene contador?",
+      "a": "Sí puede solicitar una conversación para revisar una necesidad específica de asesoría o auditoría. El alcance y la coordinación con su equipo se definen antes de contratar."
+    },
+    {
+      "q": "¿Qué servicio necesita mi empresa?",
+      "a": "Depende de la decisión o dificultad que necesita resolver. Comparta su situación y el servicio que considera relevante; la consulta permite revisar el alcance adecuado."
+    },
+    {
+      "q": "¿Dónde se encuentra la firma?",
+      "a": "En San Pedro Garza García, Nuevo León, dentro del área metropolitana de Monterrey. Encontrará la dirección completa al final de esta página."
+    },
+    {
+      "q": "¿Cuánto cuestan sus servicios?",
+      "a": "Los honorarios dependen del servicio, el alcance y la información de su empresa. Solicite una consulta para revisar su necesidad y conocer las condiciones de una propuesta."
+    },
+    {
+      "q": "¿Cómo puedo solicitar una consulta?",
+      "a": "Complete el formulario con su nombre, empresa, teléfono y servicio de interés. También puede comunicarse por teléfono o WhatsApp. La cita queda sujeta a confirmación."
+    }
+  ],
+  "/en/": [
+    {
+      "q": "Can you work with a business that already has an accountant?",
+      "a": "You can request a conversation about a specific advisory or audit need. The engagement scope and coordination with your team are agreed before work begins."
+    },
+    {
+      "q": "Which service does my business need?",
+      "a": "That depends on the decision or challenge you need to address. Share your situation and the service you are considering so the consultation can help clarify the appropriate scope."
+    },
+    {
+      "q": "Where is the firm located?",
+      "a": "In San Pedro Garza García, Nuevo León, within the Monterrey metropolitan area. The complete office address appears below."
+    },
+    {
+      "q": "How much do your services cost?",
+      "a": "Fees depend on the service, scope and your business information. Request a consultation to discuss your needs and the terms of a proposal."
+    },
+    {
+      "q": "How do I request a consultation?",
+      "a": "Complete the form with your name, company, phone number and service of interest. You can also call or use WhatsApp. Appointments are subject to confirmation."
+    }
+  ],
+  "/lp/contabilidad/": [
+    {
+      "q": "¿Podemos conservar a nuestro contador interno?",
+      "a": "La propuesta puede definir una coordinación con su equipo. Las responsabilidades y el alcance se acuerdan antes de comenzar."
+    },
+    {
+      "q": "¿Qué incluye el servicio?",
+      "a": "Los reportes, periodos y obligaciones incluidos dependen de su operación y quedan expresamente indicados en la propuesta."
+    },
+    {
+      "q": "¿Cómo se calculan los honorarios?",
+      "a": "Se consideran el volumen de operación, el estado de la información y el alcance requerido. No hay una tarifa publicada para todos los casos."
+    }
+  ],
+  "/en/lp/accounting/": [
+    {
+      "q": "Can we keep our internal accountant?",
+      "a": "The proposal can establish coordination with your team. Responsibilities and the engagement scope are agreed before work begins."
+    },
+    {
+      "q": "What does the service include?",
+      "a": "Included reports, periods and obligations depend on your operations and are expressly identified in the proposal."
+    },
+    {
+      "q": "How are fees calculated?",
+      "a": "Fees reflect activity volume, the condition of the information and the required scope. There is no published rate applicable to every case."
+    }
+  ],
+  "/lp/asesoria-fiscal/": [
+    {
+      "q": "¿Puedo consultar antes de realizar una operación?",
+      "a": "Sí puede plantear una decisión que está considerando. El análisis depende de los antecedentes y de la documentación disponible."
+    },
+    {
+      "q": "¿Garantizan un ahorro de impuestos?",
+      "a": "No. La asesoría evalúa obligaciones, alternativas y riesgos conforme a la ley. No se promete un ahorro determinado."
+    },
+    {
+      "q": "¿La consulta incluye una opinión por escrito?",
+      "a": "El formato y alcance de los entregables se acuerdan en la propuesta. La conversación inicial no sustituye un análisis documentado."
+    }
+  ],
+  "/en/lp/tax-advisory/": [
+    {
+      "q": "Can I ask about a transaction before carrying it out?",
+      "a": "You can discuss a decision you are considering. The assessment depends on the background and available documentation."
+    },
+    {
+      "q": "Do you guarantee tax savings?",
+      "a": "No. Advisory work evaluates obligations, alternatives and risks within the law. No specific tax saving is promised."
+    },
+    {
+      "q": "Does the consultation include a written opinion?",
+      "a": "Deliverable formats and scope are agreed in the proposal. The initial conversation does not replace a documented assessment."
+    }
+  ],
+  "/lp/auditoria/": [
+    {
+      "q": "¿El informe puede presentarse a un banco?",
+      "a": "Depende de sus requisitos. Compártalos antes de contratar para confirmar el tipo de informe y si la firma puede atender el encargo."
+    },
+    {
+      "q": "¿La auditoría garantiza detectar cualquier irregularidad?",
+      "a": "No. Toda revisión tiene objetivos, alcance y limitaciones. Tampoco puede prometerse una opinión favorable antes de realizar el trabajo."
+    },
+    {
+      "q": "¿Qué información necesitan para cotizar?",
+      "a": "El periodo de interés, el motivo de la revisión y los requisitos del destinatario. Después se precisan los documentos necesarios."
+    }
+  ],
+  "/en/lp/audit/": [
+    {
+      "q": "Can the report be submitted to a bank?",
+      "a": "That depends on its requirements. Share them before commissioning work to confirm the report type and whether the firm can undertake the engagement."
+    },
+    {
+      "q": "Does an audit guarantee detection of every irregularity?",
+      "a": "No. Every review has objectives, scope and limitations. A favorable opinion cannot be promised before the work is performed."
+    },
+    {
+      "q": "What information is needed for a quote?",
+      "a": "The period concerned, the reason for the review and the recipient’s requirements. The necessary documents can then be specified."
+    }
+  ],
+  "/servicios/contabilidad-monterrey/": [
+    {
+      "q": "¿Pueden coordinarse con nuestro equipo interno?",
+      "a": "La propuesta puede contemplar una distribución de responsabilidades con su equipo. Antes de iniciar se define quién prepara la información, quién la revisa y quién autoriza las acciones correspondientes."
+    },
+    {
+      "q": "¿Incluye declaraciones de impuestos?",
+      "a": "Las obligaciones y declaraciones incluidas deben quedar expresamente identificadas en la propuesta. El alcance depende de la actividad, situación fiscal y necesidades de su empresa."
+    },
+    {
+      "q": "¿Qué documentos necesito para empezar?",
+      "a": "Primero se revisa su necesidad. Después se solicita la información pertinente, que puede incluir registros contables, reportes y documentación fiscal. No envíe información confidencial por el formulario inicial."
+    },
+    {
+      "q": "¿Pueden revisar periodos anteriores?",
+      "a": "Puede solicitar una evaluación de esa necesidad. La disponibilidad de documentos y la extensión de los periodos determinarán si se requiere un alcance adicional y una propuesta específica."
+    },
+    {
+      "q": "¿Cómo se determinan los honorarios?",
+      "a": "Se consideran el volumen de operación, las obligaciones incluidas y el estado de la información. La propuesta debe indicar qué cubre el servicio y qué trabajos se cotizan por separado."
+    }
+  ],
+  "/en/services/accounting-monterrey/": [
+    {
+      "q": "Can you coordinate with our internal team?",
+      "a": "The proposal can establish a division of responsibilities with your team. Before work starts, the engagement identifies who prepares information, who reviews it and who authorizes the relevant actions."
+    },
+    {
+      "q": "Are tax returns included?",
+      "a": "Included obligations and tax returns must be expressly identified in the proposal. The scope depends on your business activities, tax position and requirements."
+    },
+    {
+      "q": "Which documents do we need to begin?",
+      "a": "Your needs are reviewed first. Relevant information is then requested, which may include accounting records, reports and tax documents. Please do not send confidential documents through the initial contact form."
+    },
+    {
+      "q": "Can you review previous periods?",
+      "a": "You can request an assessment of that requirement. Document availability and the number of periods involved determine whether a separate scope and proposal are needed."
+    },
+    {
+      "q": "How are fees determined?",
+      "a": "Fees reflect the volume of activity, the obligations included and the condition of available information. The proposal should explain what the service covers and which additional tasks are quoted separately."
+    }
+  ],
+  "/servicios/asesoria-fiscal-monterrey/": [
+    {
+      "q": "¿La asesoría garantiza pagar menos impuestos?",
+      "a": "No. La asesoría evalúa obligaciones, alternativas y riesgos conforme a la ley. El resultado depende de los hechos de su empresa y de las disposiciones aplicables; no se promete un ahorro determinado."
+    },
+    {
+      "q": "¿Puedo consultar una operación antes de realizarla?",
+      "a": "Sí puede plantear la operación que está considerando. Revisarla con anticipación permite identificar información faltante y aspectos fiscales que conviene entender antes de decidir."
+    },
+    {
+      "q": "¿Es lo mismo que llevar la contabilidad?",
+      "a": "No. La contabilidad registra y organiza información recurrente. La asesoría fiscal analiza preguntas o decisiones concretas. Ambos servicios pueden complementarse cuando la necesidad lo requiere."
+    },
+    {
+      "q": "¿Qué sucede si recibimos una comunicación de la autoridad?",
+      "a": "Indique el tipo de documento y la fecha de recepción al solicitar contacto, sin adjuntar datos sensibles. La firma deberá evaluar el asunto y confirmar si puede atenderlo, con qué alcance y en qué tiempos."
+    },
+    {
+      "q": "¿La consulta incluye una opinión por escrito?",
+      "a": "El formato y alcance de los entregables deben acordarse en la propuesta. Una conversación inicial no sustituye un análisis documentado ni implica una conclusión profesional sobre su caso."
+    }
+  ],
+  "/en/services/tax-advisory-monterrey/": [
+    {
+      "q": "Does tax advisory guarantee lower taxes?",
+      "a": "No. Advisory work evaluates obligations, alternatives and risks within the law. Outcomes depend on your business facts and the applicable rules. No specific tax saving is promised."
+    },
+    {
+      "q": "Can we discuss a transaction before carrying it out?",
+      "a": "You can bring a proposed transaction to the consultation. An early review helps identify missing information and tax considerations that should be understood before a decision is made."
+    },
+    {
+      "q": "Is this the same as accounting?",
+      "a": "No. Accounting records and organizes recurring information. Tax advisory examines specific questions or decisions. The two services can complement each other where the engagement requires it."
+    },
+    {
+      "q": "What if we receive a notice from a tax authority?",
+      "a": "State the document type and date received when requesting contact, without attaching sensitive data. The firm must assess the matter and confirm whether it can assist, under what scope and within which timeframe."
+    },
+    {
+      "q": "Will we receive a written opinion?",
+      "a": "Deliverable formats and scope should be agreed in the proposal. An initial conversation does not replace a documented assessment or constitute a professional conclusion about your case."
+    }
+  ],
+  "/servicios/auditoria-monterrey/": [
+    {
+      "q": "¿Auditoría significa revisar todos los movimientos?",
+      "a": "No necesariamente. La naturaleza y extensión de los procedimientos dependen del tipo de encargo y las normas aplicables. El alcance debe quedar claro antes de iniciar el trabajo."
+    },
+    {
+      "q": "¿Pueden auditar una empresa cuya contabilidad lleva otro despacho?",
+      "a": "Puede solicitar la evaluación del encargo. La firma deberá revisar las condiciones de independencia, la disponibilidad de información y la coordinación necesaria con los responsables de los registros."
+    },
+    {
+      "q": "¿El informe sirve para un banco o un inversionista?",
+      "a": "Depende de los requisitos del destinatario. Comparta esos requisitos antes de contratar para confirmar el tipo de informe requerido y si la firma puede atender ese encargo."
+    },
+    {
+      "q": "¿Una auditoría garantiza detectar cualquier irregularidad?",
+      "a": "No. Toda revisión tiene objetivos, alcance y limitaciones. No debe presentarse como garantía absoluta de ausencia de errores o irregularidades, ni como promesa de una opinión favorable."
+    },
+    {
+      "q": "¿Qué necesita la empresa para iniciar?",
+      "a": "Una descripción de la necesidad, el periodo de interés y los requerimientos del destinatario. Después se define la documentación financiera y de soporte que corresponde solicitar."
+    }
+  ],
+  "/en/services/audit-monterrey/": [
+    {
+      "q": "Does an audit examine every transaction?",
+      "a": "Not necessarily. The nature and extent of procedures depend on the engagement type and applicable standards. The scope must be clearly understood before work begins."
+    },
+    {
+      "q": "Can you audit a company whose accounting is handled by another firm?",
+      "a": "You can request an engagement assessment. The firm must consider independence requirements, information availability and the coordination needed with those responsible for the records."
+    },
+    {
+      "q": "Can the report be used by a bank or investor?",
+      "a": "That depends on the recipient’s requirements. Share those requirements before commissioning the work so the required report type and the firm’s ability to undertake it can be confirmed."
+    },
+    {
+      "q": "Does an audit guarantee that every irregularity will be detected?",
+      "a": "No. Every review has objectives, a scope and limitations. It should not be presented as an absolute guarantee that errors or irregularities are absent, or as a promise of a favorable opinion."
+    },
+    {
+      "q": "What does our business need to get started?",
+      "a": "A description of the requirement, the period concerned and the recipient’s conditions. The appropriate financial information and supporting documentation can then be specified."
+    }
+  ],
+  "/servicios/consultoria-negocios-monterrey/": [
+    {
+      "q": "¿Necesitamos tener el problema completamente definido?",
+      "a": "No es indispensable para solicitar contacto. Describa qué decisión enfrenta o qué situación le preocupa. La conversación inicial sirve para delimitar la necesidad y valorar un posible proyecto."
+    },
+    {
+      "q": "¿La consultoría incluye implementar las recomendaciones?",
+      "a": "Solo si se acuerda expresamente. Una propuesta debe distinguir entre análisis, recomendaciones y acompañamiento de implementación, con responsables y entregables para cada parte contratada."
+    },
+    {
+      "q": "¿Pueden trabajar con nuestra información actual?",
+      "a": "La información disponible se revisa al definir el alcance. Si faltan datos relevantes, se identifican las limitaciones y lo que conviene obtener antes de formular conclusiones."
+    },
+    {
+      "q": "¿Cuánto tiempo dura un proyecto?",
+      "a": "Depende de la pregunta, la disponibilidad de información y las personas involucradas. El calendario se define en la propuesta; no se ofrece un plazo estándar sin conocer el caso."
+    },
+    {
+      "q": "¿La consultoría garantiza mayores utilidades?",
+      "a": "No. El servicio aporta elementos para decidir. Los resultados dependen de la ejecución, del mercado y de otros factores del negocio que deben considerarse al evaluar las recomendaciones."
+    }
+  ],
+  "/en/services/business-consulting-monterrey/": [
+    {
+      "q": "Does the problem need to be fully defined before we contact you?",
+      "a": "No. Describe the decision you face or the situation that concerns you. The initial conversation helps clarify the need and assess whether an engagement would be appropriate."
+    },
+    {
+      "q": "Does consulting include implementing recommendations?",
+      "a": "Only where expressly agreed. A proposal should distinguish analysis, recommendations and implementation support, with responsibilities and deliverables for each contracted component."
+    },
+    {
+      "q": "Can you work with our existing information?",
+      "a": "Available information is reviewed when the scope is defined. Where relevant data is missing, the limitations and information needed before drawing conclusions should be identified."
+    },
+    {
+      "q": "How long does a project take?",
+      "a": "This depends on the question, information availability and the people involved. A schedule is defined in the proposal. No standard turnaround is offered without understanding the specific circumstances."
+    },
+    {
+      "q": "Does consulting guarantee higher profits?",
+      "a": "No. The service provides information and analysis to support decisions. Results depend on execution, market conditions and other business factors that should be considered when evaluating recommendations."
+    }
+  ],
+  "/servicios/servicios-administrativos-monterrey/": [
+    {
+      "q": "¿Podemos contratar solo una actividad?",
+      "a": "Puede solicitar una propuesta para una necesidad concreta. La viabilidad y el alcance dependen del volumen, los controles requeridos y la forma en que la actividad se integra con su empresa."
+    },
+    {
+      "q": "¿Quién autoriza pagos y movimientos?",
+      "a": "Las facultades y autorizaciones deben quedar documentadas antes de iniciar. El apoyo administrativo no debe interpretarse como una autorización general para disponer de recursos de su empresa."
+    },
+    {
+      "q": "¿El servicio sustituye a nuestro personal?",
+      "a": "La propuesta debe definir tareas y responsabilidades específicas. No implica por sí misma suministro de personal ni una modalidad laboral determinada; esas condiciones requieren revisión expresa."
+    },
+    {
+      "q": "¿Incluye llevar la contabilidad?",
+      "a": "No automáticamente. La operación administrativa y el registro contable tienen alcances distintos. Si necesita ambos, revise [Contabilidad y Cumplimiento Fiscal](/servicios/contabilidad-monterrey/) para definir una propuesta coordinada."
+    },
+    {
+      "q": "¿Cómo se maneja la información de la empresa?",
+      "a": "Antes de compartir información se deben acordar accesos, responsabilidades y medios adecuados. Solicite las condiciones de tratamiento de datos y confidencialidad aplicables al servicio que desea contratar."
+    }
+  ],
+  "/en/services/administrative-services-monterrey/": [
+    {
+      "q": "Can we engage you for just one activity?",
+      "a": "You can request a proposal for a specific need. Feasibility and scope depend on activity volume, required controls and how the work connects with your business operations."
+    },
+    {
+      "q": "Who authorizes payments and transactions?",
+      "a": "Authority and approvals should be documented before the service begins. Administrative assistance should not be treated as unrestricted permission to use your company’s funds or resources."
+    },
+    {
+      "q": "Does the service replace our employees?",
+      "a": "The proposal must define specific activities and responsibilities. The service does not automatically constitute personnel supply or a particular employment arrangement. Those conditions require explicit review."
+    },
+    {
+      "q": "Is accounting included?",
+      "a": "Not automatically. Administrative operations and accounting records have different scopes. If you need both, explore [Accounting and Tax Compliance](/en/services/accounting-monterrey/) to establish a coordinated proposal."
+    },
+    {
+      "q": "How is business information handled?",
+      "a": "Before sharing information, appropriate access rights, responsibilities and communication methods should be agreed. Request the data handling and confidentiality terms that apply to the service you are considering."
+    }
+  ]
+}

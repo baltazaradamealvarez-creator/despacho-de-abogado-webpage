@@ -1,0 +1,454 @@
+{
+  "meta_limits": {
+    "title": 60,
+    "description": 155
+  },
+  "metas": [
+    {
+      "file": "03-home.md",
+      "type": "title",
+      "text": "Despacho contable en Monterrey | González Armendáriz",
+      "length": 52,
+      "valid": true
+    },
+    {
+      "file": "03-home.md",
+      "type": "title",
+      "text": "Accounting Firm Monterrey | González Armendáriz",
+      "length": 47,
+      "valid": true
+    },
+    {
+      "file": "03-home.md",
+      "type": "description",
+      "text": "Contabilidad, auditoría y asesoría fiscal para empresas en Monterrey. 28+ años de trayectoria. Agende una consulta con González Armendáriz.",
+      "length": 139,
+      "valid": true
+    },
+    {
+      "file": "03-home.md",
+      "type": "description",
+      "text": "Accounting, audit and tax advisory for businesses in Monterrey, Mexico. 28+ years of experience. Schedule a consultation with González Armendáriz.",
+      "length": 146,
+      "valid": true
+    },
+    {
+      "file": "04-paginas.md",
+      "type": "title",
+      "text": "Contabilidad en Monterrey | González Armendáriz",
+      "length": 47,
+      "valid": true
+    },
+    {
+      "file": "04-paginas.md",
+      "type": "title",
+      "text": "Accounting in Monterrey | González Armendáriz",
+      "length": 45,
+      "valid": true
+    },
+    {
+      "file": "04-paginas.md",
+      "type": "title",
+      "text": "Asesoría fiscal en Monterrey | González Armendáriz",
+      "length": 50,
+      "valid": true
+    },
+    {
+      "file": "04-paginas.md",
+      "type": "title",
+      "text": "Tax Advisory in Monterrey | González Armendáriz",
+      "length": 47,
+      "valid": true
+    },
+    {
+      "file": "04-paginas.md",
+      "type": "title",
+      "text": "Auditoría en Monterrey | González Armendáriz",
+      "length": 44,
+      "valid": true
+    },
+    {
+      "file": "04-paginas.md",
+      "type": "title",
+      "text": "Audit in Monterrey | González Armendáriz",
+      "length": 40,
+      "valid": true
+    },
+    {
+      "file": "04-paginas.md",
+      "type": "title",
+      "text": "Consultoría en Monterrey | González Armendáriz",
+      "length": 46,
+      "valid": true
+    },
+    {
+      "file": "04-paginas.md",
+      "type": "title",
+      "text": "Business Consulting Monterrey | González Armendáriz",
+      "length": 51,
+      "valid": true
+    },
+    {
+      "file": "04-paginas.md",
+      "type": "title",
+      "text": "Servicios administrativos Monterrey | G. Armendáriz",
+      "length": 51,
+      "valid": true
+    },
+    {
+      "file": "04-paginas.md",
+      "type": "title",
+      "text": "Administrative Services Monterrey | G. Armendáriz",
+      "length": 49,
+      "valid": true
+    },
+    {
+      "file": "04-paginas.md",
+      "type": "title",
+      "text": "Nuestra firma | González Armendáriz",
+      "length": 35,
+      "valid": true
+    },
+    {
+      "file": "04-paginas.md",
+      "type": "title",
+      "text": "About the Firm | González Armendáriz",
+      "length": 36,
+      "valid": true
+    },
+    {
+      "file": "04-paginas.md",
+      "type": "title",
+      "text": "Nuestro equipo | González Armendáriz",
+      "length": 36,
+      "valid": true
+    },
+    {
+      "file": "04-paginas.md",
+      "type": "title",
+      "text": "Our Team | González Armendáriz",
+      "length": 30,
+      "valid": true
+    },
+    {
+      "file": "04-paginas.md",
+      "type": "title",
+      "text": "Contacto en San Pedro | González Armendáriz",
+      "length": 43,
+      "valid": true
+    },
+    {
+      "file": "04-paginas.md",
+      "type": "title",
+      "text": "Contact in San Pedro | González Armendáriz",
+      "length": 42,
+      "valid": true
+    },
+    {
+      "file": "04-paginas.md",
+      "type": "title",
+      "text": "Servicios para empresas | González Armendáriz",
+      "length": 45,
+      "valid": true
+    },
+    {
+      "file": "04-paginas.md",
+      "type": "title",
+      "text": "Business Services | González Armendáriz",
+      "length": 39,
+      "valid": true
+    },
+    {
+      "file": "04-paginas.md",
+      "type": "title",
+      "text": "Perspectivas para empresas | González Armendáriz",
+      "length": 48,
+      "valid": true
+    },
+    {
+      "file": "04-paginas.md",
+      "type": "title",
+      "text": "Business Insights | González Armendáriz",
+      "length": 39,
+      "valid": true
+    },
+    {
+      "file": "04-paginas.md",
+      "type": "description",
+      "text": "Información contable clara y apoyo con sus obligaciones fiscales en Monterrey. Conozca el servicio para empresas y agende una consulta.",
+      "length": 135,
+      "valid": true
+    },
+    {
+      "file": "04-paginas.md",
+      "type": "description",
+      "text": "Clear accounting information and support with business tax obligations in Monterrey, Mexico. Explore the service and schedule a consultation.",
+      "length": 141,
+      "valid": true
+    },
+    {
+      "file": "04-paginas.md",
+      "type": "description",
+      "text": "Evalúe las implicaciones fiscales de sus decisiones empresariales en Monterrey. Planeación dentro del marco legal. Agende una consulta.",
+      "length": 135,
+      "valid": true
+    },
+    {
+      "file": "04-paginas.md",
+      "type": "description",
+      "text": "Understand the tax implications of business decisions in Monterrey, Mexico. Explore lawful planning options and schedule a consultation.",
+      "length": 136,
+      "valid": true
+    },
+    {
+      "file": "04-paginas.md",
+      "type": "description",
+      "text": "Revise la información financiera que respalda sus decisiones en Monterrey. Conozca nuestro servicio de auditoría y agende una consulta.",
+      "length": 135,
+      "valid": true
+    },
+    {
+      "file": "04-paginas.md",
+      "type": "description",
+      "text": "Review the financial information behind your business decisions in Monterrey, Mexico. Explore our audit service and schedule a consultation.",
+      "length": 140,
+      "valid": true
+    },
+    {
+      "file": "04-paginas.md",
+      "type": "description",
+      "text": "Ordene sus prioridades y evalúe decisiones de negocio con información clara en Monterrey. Conozca la consultoría y agende una consulta.",
+      "length": 135,
+      "valid": true
+    },
+    {
+      "file": "04-paginas.md",
+      "type": "description",
+      "text": "Clarify priorities and assess business decisions with useful information in Monterrey, Mexico. Explore consulting and schedule a consultation.",
+      "length": 142,
+      "valid": true
+    },
+    {
+      "file": "04-paginas.md",
+      "type": "description",
+      "text": "Apoyo en facturación, tesorería, cobranza, pagos, inventarios y RH para empresas en Monterrey. Revise sus necesidades y agende una consulta.",
+      "length": 140,
+      "valid": true
+    },
+    {
+      "file": "04-paginas.md",
+      "type": "description",
+      "text": "Support with invoicing, treasury, collections, payments, inventory and HR in Monterrey, Mexico. Discuss your needs and schedule a consultation.",
+      "length": 143,
+      "valid": true
+    },
+    {
+      "file": "04-paginas.md",
+      "type": "description",
+      "text": "Conozca a González Armendáriz: 28+ años de trayectoria, 400+ empresas respaldadas y 30 colaboradores en San Pedro. Agende una consulta.",
+      "length": 135,
+      "valid": true
+    },
+    {
+      "file": "04-paginas.md",
+      "type": "description",
+      "text": "Meet González Armendáriz: 28+ years of experience, 400+ businesses supported and 30 team members in San Pedro. Schedule a consultation.",
+      "length": 135,
+      "valid": true
+    },
+    {
+      "file": "04-paginas.md",
+      "type": "description",
+      "text": "Conozca al equipo de González Armendáriz, firma contable y fiscal en San Pedro Garza García. 30 colaboradores. Agende una consulta.",
+      "length": 131,
+      "valid": true
+    },
+    {
+      "file": "04-paginas.md",
+      "type": "description",
+      "text": "Meet the team behind González Armendáriz, an accounting and tax firm in San Pedro Garza García. 30 team members. Schedule a consultation.",
+      "length": 137,
+      "valid": true
+    },
+    {
+      "file": "04-paginas.md",
+      "type": "description",
+      "text": "Solicite una consulta con González Armendáriz en San Pedro Garza García. Contabilidad, auditoría y asesoría fiscal para empresas. Contáctenos.",
+      "length": 142,
+      "valid": true
+    },
+    {
+      "file": "04-paginas.md",
+      "type": "description",
+      "text": "Request a consultation with González Armendáriz in San Pedro Garza García. Accounting, audit and tax advisory for businesses. Contact us.",
+      "length": 137,
+      "valid": true
+    },
+    {
+      "file": "04-paginas.md",
+      "type": "description",
+      "text": "Explore contabilidad, asesoría fiscal, auditoría, consultoría y servicios administrativos en Monterrey. Encuentre el apoyo adecuado y agende.",
+      "length": 141,
+      "valid": true
+    },
+    {
+      "file": "04-paginas.md",
+      "type": "description",
+      "text": "Explore accounting, tax advisory, audit, consulting and administrative services in Monterrey. Find the right support and schedule a consultation.",
+      "length": 145,
+      "valid": true
+    },
+    {
+      "file": "04-paginas.md",
+      "type": "description",
+      "text": "Ideas sobre impuestos, auditoría, finanzas y administración para empresas. Consulte Perspectivas de González Armendáriz y agende una consulta.",
+      "length": 142,
+      "valid": true
+    },
+    {
+      "file": "04-paginas.md",
+      "type": "description",
+      "text": "Insights on tax, audit, finance and administration for businesses in Mexico. Read González Armendáriz perspectives and schedule a consultation.",
+      "length": 143,
+      "valid": true
+    },
+    {
+      "file": "05-landings.md",
+      "type": "title",
+      "text": "Contabilidad para empresas | González Armendáriz",
+      "length": 48,
+      "valid": true
+    },
+    {
+      "file": "05-landings.md",
+      "type": "title",
+      "text": "Business Accounting | González Armendáriz",
+      "length": 41,
+      "valid": true
+    },
+    {
+      "file": "05-landings.md",
+      "type": "title",
+      "text": "Asesoría fiscal empresarial | González Armendáriz",
+      "length": 49,
+      "valid": true
+    },
+    {
+      "file": "05-landings.md",
+      "type": "title",
+      "text": "Business Tax Advisory | González Armendáriz",
+      "length": 43,
+      "valid": true
+    },
+    {
+      "file": "05-landings.md",
+      "type": "title",
+      "text": "Auditoría empresarial | González Armendáriz",
+      "length": 43,
+      "valid": true
+    },
+    {
+      "file": "05-landings.md",
+      "type": "title",
+      "text": "Business Audit | González Armendáriz",
+      "length": 36,
+      "valid": true
+    },
+    {
+      "file": "05-landings.md",
+      "type": "description",
+      "text": "Contabilidad para empresas en Monterrey. Información clara y seguimiento de obligaciones fiscales. Solicite una consulta con González Armendáriz.",
+      "length": 145,
+      "valid": true
+    },
+    {
+      "file": "05-landings.md",
+      "type": "description",
+      "text": "Business accounting in Monterrey, Mexico. Clear financial information and support with tax obligations. Request a consultation with González Armendáriz.",
+      "length": 152,
+      "valid": true
+    },
+    {
+      "file": "05-landings.md",
+      "type": "description",
+      "text": "Asesoría fiscal para empresas en Monterrey. Evalúe decisiones y alternativas dentro del marco legal. Solicite una consulta con González Armendáriz.",
+      "length": 147,
+      "valid": true
+    },
+    {
+      "file": "05-landings.md",
+      "type": "description",
+      "text": "Tax advisory for businesses in Monterrey, Mexico. Evaluate decisions and alternatives within the law. Request a consultation with González Armendáriz.",
+      "length": 150,
+      "valid": true
+    },
+    {
+      "file": "05-landings.md",
+      "type": "description",
+      "text": "Auditoría para empresas en Monterrey. Revise el alcance del informe que necesita para sus decisiones. Solicite una consulta con González Armendáriz.",
+      "length": 148,
+      "valid": true
+    },
+    {
+      "file": "05-landings.md",
+      "type": "description",
+      "text": "Audit for businesses in Monterrey, Mexico. Clarify the report your business decisions require. Request a consultation with González Armendáriz.",
+      "length": 143,
+      "valid": true
+    }
+  ],
+  "service_word_counts": [
+    {
+      "url": "/servicios/contabilidad-monterrey/",
+      "count": 428,
+      "valid": true
+    },
+    {
+      "url": "/en/services/accounting-monterrey/",
+      "count": 424,
+      "valid": true
+    },
+    {
+      "url": "/servicios/asesoria-fiscal-monterrey/",
+      "count": 433,
+      "valid": true
+    },
+    {
+      "url": "/en/services/tax-advisory-monterrey/",
+      "count": 429,
+      "valid": true
+    },
+    {
+      "url": "/servicios/auditoria-monterrey/",
+      "count": 399,
+      "valid": true
+    },
+    {
+      "url": "/en/services/audit-monterrey/",
+      "count": 400,
+      "valid": true
+    },
+    {
+      "url": "/servicios/consultoria-negocios-monterrey/",
+      "count": 416,
+      "valid": true
+    },
+    {
+      "url": "/en/services/business-consulting-monterrey/",
+      "count": 420,
+      "valid": true
+    },
+    {
+      "url": "/servicios/servicios-administrativos-monterrey/",
+      "count": 388,
+      "valid": true
+    },
+    {
+      "url": "/en/services/administrative-services-monterrey/",
+      "count": 397,
+      "valid": true
+    }
+  ],
+  "note": "Conteo de cuerpo por idioma: palabras visibles, sin URLs destino ni notas PENDIENTE. Cada página contiene 5 FAQs. Alcances propuestos requieren validación comercial.",
+  "all_valid": true
+}

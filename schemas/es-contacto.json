@@ -1,0 +1,95 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://gonzalezarmendariz.com/#organization",
+      "name": "González Armendáriz",
+      "url": "https://gonzalezarmendariz.com/",
+      "telephone": "+528183634412",
+      "founder": {
+        "@id": "https://gonzalezarmendariz.com/#alejandro-gonzalez"
+      },
+      "location": {
+        "@id": "https://gonzalezarmendariz.com/#office"
+      }
+    },
+    {
+      "@type": "AccountingService",
+      "@id": "https://gonzalezarmendariz.com/#office",
+      "name": "González Armendáriz",
+      "url": "https://gonzalezarmendariz.com/",
+      "telephone": "+528183634412",
+      "parentOrganization": {
+        "@id": "https://gonzalezarmendariz.com/#organization"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Av. Lázaro Cárdenas #2400 Pte., Edificio Losoles Int. PB 18, Col. Residencial San Agustín",
+        "addressLocality": "San Pedro Garza García",
+        "addressRegion": "Nuevo León",
+        "postalCode": "66260",
+        "addressCountry": "MX"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://gonzalezarmendariz.com/#alejandro-gonzalez",
+      "name": "Alejandro González",
+      "jobTitle": "Director Fundador",
+      "worksFor": {
+        "@id": "https://gonzalezarmendariz.com/#organization"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://gonzalezarmendariz.com/#website",
+      "url": "https://gonzalezarmendariz.com/",
+      "name": "González Armendáriz",
+      "publisher": {
+        "@id": "https://gonzalezarmendariz.com/#organization"
+      },
+      "inLanguage": [
+        "es-MX",
+        "en-US"
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://gonzalezarmendariz.com/contacto/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://gonzalezarmendariz.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Contacto",
+          "item": "https://gonzalezarmendariz.com/contacto/"
+        }
+      ]
+    },
+    {
+      "@type": "ContactPage",
+      "@id": "https://gonzalezarmendariz.com/contacto/#webpage",
+      "url": "https://gonzalezarmendariz.com/contacto/",
+      "name": "Contacto | González Armendáriz",
+      "inLanguage": "es-MX",
+      "isPartOf": {
+        "@id": "https://gonzalezarmendariz.com/#website"
+      },
+      "publisher": {
+        "@id": "https://gonzalezarmendariz.com/#organization"
+      },
+      "about": {
+        "@id": "https://gonzalezarmendariz.com/#organization"
+      },
+      "breadcrumb": {
+        "@id": "https://gonzalezarmendariz.com/contacto/#breadcrumb"
+      }
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://gonzalezarmendariz.com/#organization",
+      "name": "González Armendáriz",
+      "url": "https://gonzalezarmendariz.com/",
+      "telephone": "+528183634412",
+      "founder": {
+        "@id": "https://gonzalezarmendariz.com/#alejandro-gonzalez"
+      },
+      "location": {
+        "@id": "https://gonzalezarmendariz.com/#office"
+      }
+    },
+    {
+      "@type": "AccountingService",
+      "@id": "https://gonzalezarmendariz.com/#office",
+      "name": "González Armendáriz",
+      "url": "https://gonzalezarmendariz.com/en/",
+      "telephone": "+528183634412",
+      "parentOrganization": {
+        "@id": "https://gonzalezarmendariz.com/#organization"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Av. Lázaro Cárdenas #2400 Pte., Edificio Losoles Int. PB 18, Col. Residencial San Agustín",
+        "addressLocality": "San Pedro Garza García",
+        "addressRegion": "Nuevo León",
+        "postalCode": "66260",
+        "addressCountry": "MX"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://gonzalezarmendariz.com/#alejandro-gonzalez",
+      "name": "Alejandro González",
+      "jobTitle": "Founding Director",
+      "worksFor": {
+        "@id": "https://gonzalezarmendariz.com/#organization"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://gonzalezarmendariz.com/#website",
+      "url": "https://gonzalezarmendariz.com/",
+      "name": "González Armendáriz",
+      "publisher": {
+        "@id": "https://gonzalezarmendariz.com/#organization"
+      },
+      "inLanguage": [
+        "es-MX",
+        "en-US"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://gonzalezarmendariz.com/en/#faq",
+      "inLanguage": "en-US",
+      "isPartOf": {
+        "@id": "https://gonzalezarmendariz.com/en/#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Can you work with a business that already has an accountant?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You can request a conversation about a specific advisory or audit need. The engagement scope and coordination with your team are agreed before work begins."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which service does my business need?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "That depends on the decision or challenge you need to address. Share your situation and the service you are considering so the consultation can help clarify the appropriate scope."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where is the firm located?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In San Pedro Garza García, Nuevo León, within the Monterrey metropolitan area. The complete office address appears below."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much do your services cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fees depend on the service, scope and your business information. Request a consultation to discuss your needs and the terms of a proposal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I request a consultation?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Complete the form with your name, company, phone number and service of interest. You can also call or use WhatsApp. Appointments are subject to confirmation."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://gonzalezarmendariz.com/en/#webpage",
+      "url": "https://gonzalezarmendariz.com/en/",
+      "name": "Home | González Armendáriz",
+      "inLanguage": "en-US",
+      "isPartOf": {
+        "@id": "https://gonzalezarmendariz.com/#website"
+      },
+      "publisher": {
+        "@id": "https://gonzalezarmendariz.com/#organization"
+      },
+      "about": {
+        "@id": "https://gonzalezarmendariz.com/#organization"
+      },
+      "hasPart": {
+        "@id": "https://gonzalezarmendariz.com/en/#faq"
+      }
+    }
+  ]
+}

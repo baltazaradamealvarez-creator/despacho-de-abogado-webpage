@@ -1,0 +1,81 @@
+{
+  "anuncios": 36,
+  "por_idioma": {
+    "es": 18,
+    "en": 18
+  },
+  "grupos_por_campana": 2,
+  "rsa_por_grupo": 3,
+  "titulos_por_rsa": 15,
+  "descripciones_por_rsa": 4,
+  "max_titulo": 28,
+  "max_descripcion": 88,
+  "ids_unicos": true,
+  "estado": "todos PAUSED; no se han creado campañas",
+  "fecha_revalidacion": "2026-10-06",
+  "csv_json_equivalentes": true,
+  "payloads_unicos": 36,
+  "titulos_unicos_dentro_de_cada_rsa": true,
+  "grupos": [
+    {
+      "campana": "search_contabilidad_es",
+      "grupo": "local",
+      "anuncios": 3
+    },
+    {
+      "campana": "search_contabilidad_es",
+      "grupo": "corporativo",
+      "anuncios": 3
+    },
+    {
+      "campana": "search_asesoria-fiscal_es",
+      "grupo": "local",
+      "anuncios": 3
+    },
+    {
+      "campana": "search_asesoria-fiscal_es",
+      "grupo": "corporativo",
+      "anuncios": 3
+    },
+    {
+      "campana": "search_auditoria_es",
+      "grupo": "local",
+      "anuncios": 3
+    },
+    {
+      "campana": "search_auditoria_es",
+      "grupo": "corporativo",
+      "anuncios": 3
+    },
+    {
+      "campana": "search_contabilidad_en",
+      "grupo": "local",
+      "anuncios": 3
+    },
+    {
+      "campana": "search_contabilidad_en",
+      "grupo": "corporate",
+      "anuncios": 3
+    },
+    {
+      "campana": "search_asesoria-fiscal_en",
+      "grupo": "local",
+      "anuncios": 3
+    },
+    {
+      "campana": "search_asesoria-fiscal_en",
+      "grupo": "corporate",
+      "anuncios": 3
+    },
+    {
+      "campana": "search_auditoria_en",
+      "grupo": "local",
+      "anuncios": 3
+    },
+    {
+      "campana": "search_auditoria_en",
+      "grupo": "corporate",
+      "anuncios": 3
+    }
+  ]
+}

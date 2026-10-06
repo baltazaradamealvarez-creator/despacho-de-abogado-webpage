@@ -1,0 +1,198 @@
+[
+  {
+    "url": "https://gonzalezarmendariz.com/",
+    "file": "es-home.json",
+    "language": "es-MX",
+    "faq_count": 5,
+    "robots": "index,follow"
+  },
+  {
+    "url": "https://gonzalezarmendariz.com/en/",
+    "file": "en-home.json",
+    "language": "en-US",
+    "faq_count": 5,
+    "robots": "index,follow"
+  },
+  {
+    "url": "https://gonzalezarmendariz.com/servicios/",
+    "file": "es-servicios.json",
+    "language": "es-MX",
+    "faq_count": 0,
+    "robots": "index,follow"
+  },
+  {
+    "url": "https://gonzalezarmendariz.com/en/services/",
+    "file": "en-services.json",
+    "language": "en-US",
+    "faq_count": 0,
+    "robots": "index,follow"
+  },
+  {
+    "url": "https://gonzalezarmendariz.com/nosotros/",
+    "file": "es-nosotros.json",
+    "language": "es-MX",
+    "faq_count": 0,
+    "robots": "index,follow"
+  },
+  {
+    "url": "https://gonzalezarmendariz.com/en/about/",
+    "file": "en-about.json",
+    "language": "en-US",
+    "faq_count": 0,
+    "robots": "index,follow"
+  },
+  {
+    "url": "https://gonzalezarmendariz.com/equipo/",
+    "file": "es-equipo.json",
+    "language": "es-MX",
+    "faq_count": 0,
+    "robots": "index,follow"
+  },
+  {
+    "url": "https://gonzalezarmendariz.com/en/team/",
+    "file": "en-team.json",
+    "language": "en-US",
+    "faq_count": 0,
+    "robots": "index,follow"
+  },
+  {
+    "url": "https://gonzalezarmendariz.com/contacto/",
+    "file": "es-contacto.json",
+    "language": "es-MX",
+    "faq_count": 0,
+    "robots": "index,follow"
+  },
+  {
+    "url": "https://gonzalezarmendariz.com/en/contact/",
+    "file": "en-contact.json",
+    "language": "en-US",
+    "faq_count": 0,
+    "robots": "index,follow"
+  },
+  {
+    "url": "https://gonzalezarmendariz.com/perspectivas/",
+    "file": "es-perspectivas.json",
+    "language": "es-MX",
+    "faq_count": 0,
+    "robots": "index,follow"
+  },
+  {
+    "url": "https://gonzalezarmendariz.com/en/insights/",
+    "file": "en-insights.json",
+    "language": "en-US",
+    "faq_count": 0,
+    "robots": "index,follow"
+  },
+  {
+    "url": "https://gonzalezarmendariz.com/servicios/contabilidad-monterrey/",
+    "file": "es-servicios-contabilidad-monterrey.json",
+    "language": "es-MX",
+    "faq_count": 5,
+    "robots": "index,follow"
+  },
+  {
+    "url": "https://gonzalezarmendariz.com/en/services/accounting-monterrey/",
+    "file": "en-services-accounting-monterrey.json",
+    "language": "en-US",
+    "faq_count": 5,
+    "robots": "index,follow"
+  },
+  {
+    "url": "https://gonzalezarmendariz.com/servicios/asesoria-fiscal-monterrey/",
+    "file": "es-servicios-asesoria-fiscal-monterrey.json",
+    "language": "es-MX",
+    "faq_count": 5,
+    "robots": "index,follow"
+  },
+  {
+    "url": "https://gonzalezarmendariz.com/en/services/tax-advisory-monterrey/",
+    "file": "en-services-tax-advisory-monterrey.json",
+    "language": "en-US",
+    "faq_count": 5,
+    "robots": "index,follow"
+  },
+  {
+    "url": "https://gonzalezarmendariz.com/servicios/auditoria-monterrey/",
+    "file": "es-servicios-auditoria-monterrey.json",
+    "language": "es-MX",
+    "faq_count": 5,
+    "robots": "index,follow"
+  },
+  {
+    "url": "https://gonzalezarmendariz.com/en/services/audit-monterrey/",
+    "file": "en-services-audit-monterrey.json",
+    "language": "en-US",
+    "faq_count": 5,
+    "robots": "index,follow"
+  },
+  {
+    "url": "https://gonzalezarmendariz.com/servicios/consultoria-negocios-monterrey/",
+    "file": "es-servicios-consultoria-negocios-monterrey.json",
+    "language": "es-MX",
+    "faq_count": 5,
+    "robots": "index,follow"
+  },
+  {
+    "url": "https://gonzalezarmendariz.com/en/services/business-consulting-monterrey/",
+    "file": "en-services-business-consulting-monterrey.json",
+    "language": "en-US",
+    "faq_count": 5,
+    "robots": "index,follow"
+  },
+  {
+    "url": "https://gonzalezarmendariz.com/servicios/servicios-administrativos-monterrey/",
+    "file": "es-servicios-servicios-administrativos-monterrey.json",
+    "language": "es-MX",
+    "faq_count": 5,
+    "robots": "index,follow"
+  },
+  {
+    "url": "https://gonzalezarmendariz.com/en/services/administrative-services-monterrey/",
+    "file": "en-services-administrative-services-monterrey.json",
+    "language": "en-US",
+    "faq_count": 5,
+    "robots": "index,follow"
+  },
+  {
+    "url": "https://gonzalezarmendariz.com/lp/contabilidad/",
+    "file": "es-lp-contabilidad.json",
+    "language": "es-MX",
+    "faq_count": 3,
+    "robots": "noindex,follow"
+  },
+  {
+    "url": "https://gonzalezarmendariz.com/en/lp/accounting/",
+    "file": "en-lp-accounting.json",
+    "language": "en-US",
+    "faq_count": 3,
+    "robots": "noindex,follow"
+  },
+  {
+    "url": "https://gonzalezarmendariz.com/lp/asesoria-fiscal/",
+    "file": "es-lp-asesoria-fiscal.json",
+    "language": "es-MX",
+    "faq_count": 3,
+    "robots": "noindex,follow"
+  },
+  {
+    "url": "https://gonzalezarmendariz.com/en/lp/tax-advisory/",
+    "file": "en-lp-tax-advisory.json",
+    "language": "en-US",
+    "faq_count": 3,
+    "robots": "noindex,follow"
+  },
+  {
+    "url": "https://gonzalezarmendariz.com/lp/auditoria/",
+    "file": "es-lp-auditoria.json",
+    "language": "es-MX",
+    "faq_count": 3,
+    "robots": "noindex,follow"
+  },
+  {
+    "url": "https://gonzalezarmendariz.com/en/lp/audit/",
+    "file": "en-lp-audit.json",
+    "language": "en-US",
+    "faq_count": 3,
+    "robots": "noindex,follow"
+  }
+]

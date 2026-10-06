@@ -1,0 +1,5 @@
+url_actual_observada,url_propuesta,status_propuesto,condicion
+/blog/,/perspectivas/,301,Solo tras migrar archivo y paginacion equivalente
+/en/blog-2/,/en/insights/,301,Enlace observado en home EN; confirmar200y migrar archivo antes de aplicar
+/en/about-us/,/en/about/,301,Enlace observado en home EN; confirmar200y equivalencia de contenido
+/trabajo,/trabajo/,301,Solo si destino publicado y política barra final aprobada

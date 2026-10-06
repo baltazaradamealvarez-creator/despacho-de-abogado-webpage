@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://gonzalezarmendariz.com/perspectivas/REEMPLAZAR-SLUG/#article",
+      "url": "https://gonzalezarmendariz.com/perspectivas/REEMPLAZAR-SLUG/",
+      "headline": "[PENDIENTE: título real del artículo]",
+      "description": "[PENDIENTE: resumen visible]",
+      "inLanguage": "es-MX",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://gonzalezarmendariz.com/perspectivas/REEMPLAZAR-SLUG/"
+      },
+      "publisher": {
+        "@id": "https://gonzalezarmendariz.com/#organization"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "[PENDIENTE: autor real y autorizado]"
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://gonzalezarmendariz.com/#organization",
+      "name": "González Armendáriz",
+      "url": "https://gonzalezarmendariz.com/"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://gonzalezarmendariz.com/perspectivas/REEMPLAZAR-SLUG/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://gonzalezarmendariz.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Perspectivas",
+          "item": "https://gonzalezarmendariz.com/perspectivas/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "[PENDIENTE: título real del artículo]",
+          "item": "https://gonzalezarmendariz.com/perspectivas/REEMPLAZAR-SLUG/"
+        }
+      ]
+    }
+  ]
+}

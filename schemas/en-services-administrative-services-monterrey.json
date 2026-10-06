@@ -1,0 +1,174 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://gonzalezarmendariz.com/#organization",
+      "name": "González Armendáriz",
+      "url": "https://gonzalezarmendariz.com/",
+      "telephone": "+528183634412",
+      "founder": {
+        "@id": "https://gonzalezarmendariz.com/#alejandro-gonzalez"
+      },
+      "location": {
+        "@id": "https://gonzalezarmendariz.com/#office"
+      }
+    },
+    {
+      "@type": "AccountingService",
+      "@id": "https://gonzalezarmendariz.com/#office",
+      "name": "González Armendáriz",
+      "url": "https://gonzalezarmendariz.com/en/",
+      "telephone": "+528183634412",
+      "parentOrganization": {
+        "@id": "https://gonzalezarmendariz.com/#organization"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Av. Lázaro Cárdenas #2400 Pte., Edificio Losoles Int. PB 18, Col. Residencial San Agustín",
+        "addressLocality": "San Pedro Garza García",
+        "addressRegion": "Nuevo León",
+        "postalCode": "66260",
+        "addressCountry": "MX"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://gonzalezarmendariz.com/#alejandro-gonzalez",
+      "name": "Alejandro González",
+      "jobTitle": "Founding Director",
+      "worksFor": {
+        "@id": "https://gonzalezarmendariz.com/#organization"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://gonzalezarmendariz.com/#website",
+      "url": "https://gonzalezarmendariz.com/",
+      "name": "González Armendáriz",
+      "publisher": {
+        "@id": "https://gonzalezarmendariz.com/#organization"
+      },
+      "inLanguage": [
+        "es-MX",
+        "en-US"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://gonzalezarmendariz.com/en/services/administrative-services-monterrey/#service",
+      "name": "Administrative Services",
+      "serviceType": "Administrative Services",
+      "url": "https://gonzalezarmendariz.com/en/services/administrative-services-monterrey/",
+      "provider": {
+        "@id": "https://gonzalezarmendariz.com/#office"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Monterrey"
+        },
+        {
+          "@type": "City",
+          "name": "San Pedro Garza García"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://gonzalezarmendariz.com/en/services/administrative-services-monterrey/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://gonzalezarmendariz.com/en/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Services",
+          "item": "https://gonzalezarmendariz.com/en/services/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Administrative Services",
+          "item": "https://gonzalezarmendariz.com/en/services/administrative-services-monterrey/"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://gonzalezarmendariz.com/en/services/administrative-services-monterrey/#faq",
+      "inLanguage": "en-US",
+      "isPartOf": {
+        "@id": "https://gonzalezarmendariz.com/en/services/administrative-services-monterrey/#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Can we engage you for just one activity?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You can request a proposal for a specific need. Feasibility and scope depend on activity volume, required controls and how the work connects with your business operations."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Who authorizes payments and transactions?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Authority and approvals should be documented before the service begins. Administrative assistance should not be treated as unrestricted permission to use your company’s funds or resources."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does the service replace our employees?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The proposal must define specific activities and responsibilities. The service does not automatically constitute personnel supply or a particular employment arrangement. Those conditions require explicit review."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is accounting included?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Not automatically. Administrative operations and accounting records have different scopes. If you need both, explore [Accounting and Tax Compliance](/en/services/accounting-monterrey/) to establish a coordinated proposal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is business information handled?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Before sharing information, appropriate access rights, responsibilities and communication methods should be agreed. Request the data handling and confidentiality terms that apply to the service you are considering."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://gonzalezarmendariz.com/en/services/administrative-services-monterrey/#webpage",
+      "url": "https://gonzalezarmendariz.com/en/services/administrative-services-monterrey/",
+      "name": "Administrative Services | González Armendáriz",
+      "inLanguage": "en-US",
+      "isPartOf": {
+        "@id": "https://gonzalezarmendariz.com/#website"
+      },
+      "publisher": {
+        "@id": "https://gonzalezarmendariz.com/#organization"
+      },
+      "about": {
+        "@id": "https://gonzalezarmendariz.com/en/services/administrative-services-monterrey/#service"
+      },
+      "breadcrumb": {
+        "@id": "https://gonzalezarmendariz.com/en/services/administrative-services-monterrey/#breadcrumb"
+      },
+      "hasPart": {
+        "@id": "https://gonzalezarmendariz.com/en/services/administrative-services-monterrey/#faq"
+      }
+    }
+  ]
+}

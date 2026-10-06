@@ -1,0 +1,54 @@
+[
+  {
+    "route": "/",
+    "width": 390,
+    "consent": false,
+    "violations": []
+  },
+  {
+    "route": "/",
+    "width": 1440,
+    "consent": false,
+    "violations": []
+  },
+  {
+    "route": "/en/",
+    "width": 390,
+    "consent": false,
+    "violations": []
+  },
+  {
+    "route": "/lp/contabilidad/",
+    "width": 390,
+    "consent": false,
+    "violations": []
+  },
+  {
+    "route": "/lp/contabilidad/",
+    "width": 1440,
+    "consent": false,
+    "violations": []
+  },
+  {
+    "route": "/en/lp/accounting/",
+    "width": 390,
+    "consent": false,
+    "violations": []
+  },
+  {
+    "route": "/",
+    "width": 390,
+    "consent": true,
+    "violations": []
+  },
+  {
+    "consentFlow": {
+      "consent": {
+        "analytics": true,
+        "advertising": false
+      },
+      "bannerHidden": true,
+      "dialogClosed": true
+    }
+  }
+]

@@ -1,0 +1,330 @@
+{
+  "home": {
+    "es": {
+      "title": "Despacho contable en Monterrey | González Armendáriz",
+      "description": "Contabilidad, auditoría y asesoría fiscal para empresas en Monterrey. 28+ años de trayectoria. Agende una consulta con González Armendáriz.",
+      "h1": "Despacho contable en Monterrey para su empresa",
+      "subtitle": "Contabilidad, auditoría y asesoría fiscal para tomar decisiones con mayor claridad.",
+      "services": [
+        {
+          "name": "Contabilidad y Cumplimiento Fiscal",
+          "line": "Información financiera clara y atención a sus obligaciones fiscales.",
+          "url": "/servicios/contabilidad-monterrey/"
+        },
+        {
+          "name": "Asesoría Fiscal",
+          "line": "Evalúe sus decisiones y reduzca riesgos dentro del marco legal.",
+          "url": "/servicios/asesoria-fiscal-monterrey/"
+        },
+        {
+          "name": "Auditoría",
+          "line": "Mayor confianza en la información que utiliza para decidir.",
+          "url": "/servicios/auditoria-monterrey/"
+        },
+        {
+          "name": "Consultoría de Negocios",
+          "line": "Convierta sus preguntas de negocio en prioridades de acción.",
+          "url": "/servicios/consultoria-negocios-monterrey/"
+        },
+        {
+          "name": "Servicios Administrativos",
+          "line": "Apoyo en facturación, tesorería, cobranza y otras tareas de su operación.",
+          "url": "/servicios/servicios-administrativos-monterrey/"
+        }
+      ],
+      "pillars": [
+        {
+          "title": "Trayectoria",
+          "text": "Más de 28 años de experiencia respaldan a la firma."
+        },
+        {
+          "title": "Perspectiva empresarial",
+          "text": "Contabilidad, fiscal, auditoría y administración dentro de una misma oferta de servicios."
+        },
+        {
+          "title": "Capacidad de equipo",
+          "text": "30 colaboradores y más de 400 empresas respaldadas."
+        }
+      ],
+      "leadership": {
+        "headline": "Dirección con experiencia",
+        "text": "Una firma para acompañar las decisiones contables, fiscales y de negocio de su empresa."
+      },
+      "faqs": [
+        {
+          "q": "¿Pueden trabajar con una empresa que ya tiene contador?",
+          "a": "Sí puede solicitar una conversación para revisar una necesidad específica de asesoría o auditoría. El alcance y la coordinación con su equipo se definen antes de contratar."
+        },
+        {
+          "q": "¿Qué servicio necesita mi empresa?",
+          "a": "Depende de la decisión o dificultad que necesita resolver. Comparta su situación y el servicio que considera relevante; la consulta permite revisar el alcance adecuado."
+        },
+        {
+          "q": "¿Dónde se encuentra la firma?",
+          "a": "En San Pedro Garza García, Nuevo León, dentro del área metropolitana de Monterrey. Encontrará la dirección completa al final de esta página."
+        },
+        {
+          "q": "¿Cuánto cuestan sus servicios?",
+          "a": "Los honorarios dependen del servicio, el alcance y la información de su empresa. Solicite una consulta para revisar su necesidad y conocer las condiciones de una propuesta."
+        },
+        {
+          "q": "¿Cómo puedo solicitar una consulta?",
+          "a": "Complete el formulario con su nombre, empresa, teléfono y servicio de interés. También puede comunicarse por teléfono o WhatsApp. La cita queda sujeta a confirmación."
+        }
+      ],
+      "final_title": "Hablemos de lo que su empresa necesita",
+      "final_text": "Dé el siguiente paso con una conversación sobre su situación y sus prioridades."
+    },
+    "en": {
+      "title": "Accounting Firm Monterrey | González Armendáriz",
+      "description": "Accounting, audit and tax advisory for businesses in Monterrey, Mexico. 28+ years of experience. Schedule a consultation with González Armendáriz.",
+      "h1": "Accounting firm in Monterrey for your business",
+      "subtitle": "Accounting, audit and tax advisory to support clearer business decisions.",
+      "services": [
+        {
+          "name": "Accounting and Tax Compliance",
+          "line": "Clear financial information and support with your tax obligations.",
+          "url": "/en/services/accounting-monterrey/"
+        },
+        {
+          "name": "Tax Advisory",
+          "line": "Evaluate business decisions and reduce risk within the legal framework.",
+          "url": "/en/services/tax-advisory-monterrey/"
+        },
+        {
+          "name": "Audit",
+          "line": "Greater confidence in the information behind your decisions.",
+          "url": "/en/services/audit-monterrey/"
+        },
+        {
+          "name": "Business Consulting",
+          "line": "Turn your business questions into practical priorities.",
+          "url": "/en/services/business-consulting-monterrey/"
+        },
+        {
+          "name": "Administrative Services",
+          "line": "Support with invoicing, treasury, collections and other operational tasks.",
+          "url": "/en/services/administrative-services-monterrey/"
+        }
+      ],
+      "pillars": [
+        {
+          "title": "Track record",
+          "text": "More than 28 years of experience support the firm."
+        },
+        {
+          "title": "Business perspective",
+          "text": "Accounting, tax, audit and administration within one service offering."
+        },
+        {
+          "title": "Team capacity",
+          "text": "30 team members and more than 400 businesses supported."
+        }
+      ],
+      "leadership": {
+        "headline": "Experienced leadership",
+        "text": "A firm supporting your accounting, tax and business decisions."
+      },
+      "faqs": [
+        {
+          "q": "Can you work with a business that already has an accountant?",
+          "a": "You can request a conversation about a specific advisory or audit need. The engagement scope and coordination with your team are agreed before work begins."
+        },
+        {
+          "q": "Which service does my business need?",
+          "a": "That depends on the decision or challenge you need to address. Share your situation and the service you are considering so the consultation can help clarify the appropriate scope."
+        },
+        {
+          "q": "Where is the firm located?",
+          "a": "In San Pedro Garza García, Nuevo León, within the Monterrey metropolitan area. The complete office address appears below."
+        },
+        {
+          "q": "How much do your services cost?",
+          "a": "Fees depend on the service, scope and your business information. Request a consultation to discuss your needs and the terms of a proposal."
+        },
+        {
+          "q": "How do I request a consultation?",
+          "a": "Complete the form with your name, company, phone number and service of interest. You can also call or use WhatsApp. Appointments are subject to confirmation."
+        }
+      ],
+      "final_title": "Let’s discuss what your business needs",
+      "final_text": "Take the next step with a conversation about your situation and priorities."
+    }
+  },
+  "landings": {
+    "contabilidad": {
+      "es": {
+        "url": "/lp/contabilidad/",
+        "title": "Contabilidad para empresas | González Armendáriz",
+        "description": "Contabilidad para empresas en Monterrey. Información clara y seguimiento de obligaciones fiscales. Solicite una consulta con González Armendáriz.",
+        "h1": "Contabilidad para empresas en Monterrey",
+        "subtitle": "Información financiera clara y atención a sus obligaciones fiscales.",
+        "benefits": [
+          "Entienda las cifras que utiliza para decidir.",
+          "Identifique pendientes e información que requiere atención.",
+          "Defina responsabilidades y entregables con su equipo."
+        ],
+        "faqs": [
+          {
+            "q": "¿Podemos conservar a nuestro contador interno?",
+            "a": "La propuesta puede definir una coordinación con su equipo. Las responsabilidades y el alcance se acuerdan antes de comenzar."
+          },
+          {
+            "q": "¿Qué incluye el servicio?",
+            "a": "Los reportes, periodos y obligaciones incluidos dependen de su operación y quedan expresamente indicados en la propuesta."
+          },
+          {
+            "q": "¿Cómo se calculan los honorarios?",
+            "a": "Se consideran el volumen de operación, el estado de la información y el alcance requerido. No hay una tarifa publicada para todos los casos."
+          }
+        ],
+        "final_title": "Converse sobre la contabilidad de su empresa",
+        "final_text": "Comparta sus datos para revisar su necesidad y definir el siguiente paso."
+      },
+      "en": {
+        "url": "/en/lp/accounting/",
+        "title": "Business Accounting | González Armendáriz",
+        "description": "Business accounting in Monterrey, Mexico. Clear financial information and support with tax obligations. Request a consultation with González Armendáriz.",
+        "h1": "Business accounting in Monterrey",
+        "subtitle": "Clear financial information and support with your tax obligations.",
+        "benefits": [
+          "Understand the figures behind your decisions.",
+          "Identify outstanding matters and information that needs attention.",
+          "Define responsibilities and deliverables with your team."
+        ],
+        "faqs": [
+          {
+            "q": "Can we keep our internal accountant?",
+            "a": "The proposal can establish coordination with your team. Responsibilities and the engagement scope are agreed before work begins."
+          },
+          {
+            "q": "What does the service include?",
+            "a": "Included reports, periods and obligations depend on your operations and are expressly identified in the proposal."
+          },
+          {
+            "q": "How are fees calculated?",
+            "a": "Fees reflect activity volume, the condition of the information and the required scope. There is no published rate applicable to every case."
+          }
+        ],
+        "final_title": "Discuss your business accounting",
+        "final_text": "Share your details to review your requirements and define the next step."
+      }
+    },
+    "asesoria-fiscal": {
+      "es": {
+        "url": "/lp/asesoria-fiscal/",
+        "title": "Asesoría fiscal empresarial | González Armendáriz",
+        "description": "Asesoría fiscal para empresas en Monterrey. Evalúe decisiones y alternativas dentro del marco legal. Solicite una consulta con González Armendáriz.",
+        "h1": "Asesoría fiscal para empresas en Monterrey",
+        "subtitle": "Evalúe las implicaciones fiscales antes de tomar una decisión.",
+        "benefits": [
+          "Comprenda las obligaciones relacionadas con su situación.",
+          "Compare alternativas dentro del marco legal.",
+          "Identifique documentación y riesgos que requieren atención."
+        ],
+        "faqs": [
+          {
+            "q": "¿Puedo consultar antes de realizar una operación?",
+            "a": "Sí puede plantear una decisión que está considerando. El análisis depende de los antecedentes y de la documentación disponible."
+          },
+          {
+            "q": "¿Garantizan un ahorro de impuestos?",
+            "a": "No. La asesoría evalúa obligaciones, alternativas y riesgos conforme a la ley. No se promete un ahorro determinado."
+          },
+          {
+            "q": "¿La consulta incluye una opinión por escrito?",
+            "a": "El formato y alcance de los entregables se acuerdan en la propuesta. La conversación inicial no sustituye un análisis documentado."
+          }
+        ],
+        "final_title": "Revise su próxima decisión fiscal",
+        "final_text": "Solicite una conversación para precisar su situación y el alcance que necesita."
+      },
+      "en": {
+        "url": "/en/lp/tax-advisory/",
+        "title": "Business Tax Advisory | González Armendáriz",
+        "description": "Tax advisory for businesses in Monterrey, Mexico. Evaluate decisions and alternatives within the law. Request a consultation with González Armendáriz.",
+        "h1": "Business tax advisory in Monterrey",
+        "subtitle": "Understand the tax implications before making a decision.",
+        "benefits": [
+          "Understand the obligations relevant to your circumstances.",
+          "Compare alternatives within the legal framework.",
+          "Identify documentation and risks that need attention."
+        ],
+        "faqs": [
+          {
+            "q": "Can I ask about a transaction before carrying it out?",
+            "a": "You can discuss a decision you are considering. The assessment depends on the background and available documentation."
+          },
+          {
+            "q": "Do you guarantee tax savings?",
+            "a": "No. Advisory work evaluates obligations, alternatives and risks within the law. No specific tax saving is promised."
+          },
+          {
+            "q": "Does the consultation include a written opinion?",
+            "a": "Deliverable formats and scope are agreed in the proposal. The initial conversation does not replace a documented assessment."
+          }
+        ],
+        "final_title": "Review your next tax decision",
+        "final_text": "Request a conversation to clarify your situation and the scope you need."
+      }
+    },
+    "auditoria": {
+      "es": {
+        "url": "/lp/auditoria/",
+        "title": "Auditoría empresarial | González Armendáriz",
+        "description": "Auditoría para empresas en Monterrey. Revise el alcance del informe que necesita para sus decisiones. Solicite una consulta con González Armendáriz.",
+        "h1": "Auditoría para empresas en Monterrey",
+        "subtitle": "Mayor claridad sobre la información financiera que respalda sus decisiones.",
+        "benefits": [
+          "Precise el tipo de revisión que necesita.",
+          "Identifique asuntos que requieren aclaración.",
+          "Defina el informe y sus destinatarios antes de contratar."
+        ],
+        "faqs": [
+          {
+            "q": "¿El informe puede presentarse a un banco?",
+            "a": "Depende de sus requisitos. Compártalos antes de contratar para confirmar el tipo de informe y si la firma puede atender el encargo."
+          },
+          {
+            "q": "¿La auditoría garantiza detectar cualquier irregularidad?",
+            "a": "No. Toda revisión tiene objetivos, alcance y limitaciones. Tampoco puede prometerse una opinión favorable antes de realizar el trabajo."
+          },
+          {
+            "q": "¿Qué información necesitan para cotizar?",
+            "a": "El periodo de interés, el motivo de la revisión y los requisitos del destinatario. Después se precisan los documentos necesarios."
+          }
+        ],
+        "final_title": "Defina la revisión que su empresa necesita",
+        "final_text": "Conversemos sobre el objetivo, el periodo y el uso esperado de su informe."
+      },
+      "en": {
+        "url": "/en/lp/audit/",
+        "title": "Business Audit | González Armendáriz",
+        "description": "Audit for businesses in Monterrey, Mexico. Clarify the report your business decisions require. Request a consultation with González Armendáriz.",
+        "h1": "Audit for businesses in Monterrey",
+        "subtitle": "Greater clarity about the financial information behind your decisions.",
+        "benefits": [
+          "Clarify the type of review you need.",
+          "Identify matters requiring explanation.",
+          "Define the report and its recipients before commissioning work."
+        ],
+        "faqs": [
+          {
+            "q": "Can the report be submitted to a bank?",
+            "a": "That depends on its requirements. Share them before commissioning work to confirm the report type and whether the firm can undertake the engagement."
+          },
+          {
+            "q": "Does an audit guarantee detection of every irregularity?",
+            "a": "No. Every review has objectives, scope and limitations. A favorable opinion cannot be promised before the work is performed."
+          },
+          {
+            "q": "What information is needed for a quote?",
+            "a": "The period concerned, the reason for the review and the recipient’s requirements. The necessary documents can then be specified."
+          }
+        ],
+        "final_title": "Define the review your business needs",
+        "final_text": "Let’s discuss the objective, period and intended use of your report."
+      }
+    }
+  }
+}

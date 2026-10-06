@@ -1,0 +1,174 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://gonzalezarmendariz.com/#organization",
+      "name": "González Armendáriz",
+      "url": "https://gonzalezarmendariz.com/",
+      "telephone": "+528183634412",
+      "founder": {
+        "@id": "https://gonzalezarmendariz.com/#alejandro-gonzalez"
+      },
+      "location": {
+        "@id": "https://gonzalezarmendariz.com/#office"
+      }
+    },
+    {
+      "@type": "AccountingService",
+      "@id": "https://gonzalezarmendariz.com/#office",
+      "name": "González Armendáriz",
+      "url": "https://gonzalezarmendariz.com/",
+      "telephone": "+528183634412",
+      "parentOrganization": {
+        "@id": "https://gonzalezarmendariz.com/#organization"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Av. Lázaro Cárdenas #2400 Pte., Edificio Losoles Int. PB 18, Col. Residencial San Agustín",
+        "addressLocality": "San Pedro Garza García",
+        "addressRegion": "Nuevo León",
+        "postalCode": "66260",
+        "addressCountry": "MX"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://gonzalezarmendariz.com/#alejandro-gonzalez",
+      "name": "Alejandro González",
+      "jobTitle": "Director Fundador",
+      "worksFor": {
+        "@id": "https://gonzalezarmendariz.com/#organization"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://gonzalezarmendariz.com/#website",
+      "url": "https://gonzalezarmendariz.com/",
+      "name": "González Armendáriz",
+      "publisher": {
+        "@id": "https://gonzalezarmendariz.com/#organization"
+      },
+      "inLanguage": [
+        "es-MX",
+        "en-US"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://gonzalezarmendariz.com/servicios/auditoria-monterrey/#service",
+      "name": "Auditoría",
+      "serviceType": "Auditoría",
+      "url": "https://gonzalezarmendariz.com/servicios/auditoria-monterrey/",
+      "provider": {
+        "@id": "https://gonzalezarmendariz.com/#office"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Monterrey"
+        },
+        {
+          "@type": "City",
+          "name": "San Pedro Garza García"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://gonzalezarmendariz.com/servicios/auditoria-monterrey/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://gonzalezarmendariz.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Servicios",
+          "item": "https://gonzalezarmendariz.com/servicios/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Auditoría",
+          "item": "https://gonzalezarmendariz.com/servicios/auditoria-monterrey/"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://gonzalezarmendariz.com/servicios/auditoria-monterrey/#faq",
+      "inLanguage": "es-MX",
+      "isPartOf": {
+        "@id": "https://gonzalezarmendariz.com/servicios/auditoria-monterrey/#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Auditoría significa revisar todos los movimientos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No necesariamente. La naturaleza y extensión de los procedimientos dependen del tipo de encargo y las normas aplicables. El alcance debe quedar claro antes de iniciar el trabajo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Pueden auditar una empresa cuya contabilidad lleva otro despacho?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Puede solicitar la evaluación del encargo. La firma deberá revisar las condiciones de independencia, la disponibilidad de información y la coordinación necesaria con los responsables de los registros."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿El informe sirve para un banco o un inversionista?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depende de los requisitos del destinatario. Comparta esos requisitos antes de contratar para confirmar el tipo de informe requerido y si la firma puede atender ese encargo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Una auditoría garantiza detectar cualquier irregularidad?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Toda revisión tiene objetivos, alcance y limitaciones. No debe presentarse como garantía absoluta de ausencia de errores o irregularidades, ni como promesa de una opinión favorable."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué necesita la empresa para iniciar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Una descripción de la necesidad, el periodo de interés y los requerimientos del destinatario. Después se define la documentación financiera y de soporte que corresponde solicitar."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://gonzalezarmendariz.com/servicios/auditoria-monterrey/#webpage",
+      "url": "https://gonzalezarmendariz.com/servicios/auditoria-monterrey/",
+      "name": "Auditoría | González Armendáriz",
+      "inLanguage": "es-MX",
+      "isPartOf": {
+        "@id": "https://gonzalezarmendariz.com/#website"
+      },
+      "publisher": {
+        "@id": "https://gonzalezarmendariz.com/#organization"
+      },
+      "about": {
+        "@id": "https://gonzalezarmendariz.com/servicios/auditoria-monterrey/#service"
+      },
+      "breadcrumb": {
+        "@id": "https://gonzalezarmendariz.com/servicios/auditoria-monterrey/#breadcrumb"
+      },
+      "hasPart": {
+        "@id": "https://gonzalezarmendariz.com/servicios/auditoria-monterrey/#faq"
+      }
+    }
+  ]
+}

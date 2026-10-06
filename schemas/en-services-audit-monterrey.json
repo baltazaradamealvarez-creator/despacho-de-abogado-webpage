@@ -1,0 +1,174 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://gonzalezarmendariz.com/#organization",
+      "name": "González Armendáriz",
+      "url": "https://gonzalezarmendariz.com/",
+      "telephone": "+528183634412",
+      "founder": {
+        "@id": "https://gonzalezarmendariz.com/#alejandro-gonzalez"
+      },
+      "location": {
+        "@id": "https://gonzalezarmendariz.com/#office"
+      }
+    },
+    {
+      "@type": "AccountingService",
+      "@id": "https://gonzalezarmendariz.com/#office",
+      "name": "González Armendáriz",
+      "url": "https://gonzalezarmendariz.com/en/",
+      "telephone": "+528183634412",
+      "parentOrganization": {
+        "@id": "https://gonzalezarmendariz.com/#organization"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Av. Lázaro Cárdenas #2400 Pte., Edificio Losoles Int. PB 18, Col. Residencial San Agustín",
+        "addressLocality": "San Pedro Garza García",
+        "addressRegion": "Nuevo León",
+        "postalCode": "66260",
+        "addressCountry": "MX"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://gonzalezarmendariz.com/#alejandro-gonzalez",
+      "name": "Alejandro González",
+      "jobTitle": "Founding Director",
+      "worksFor": {
+        "@id": "https://gonzalezarmendariz.com/#organization"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://gonzalezarmendariz.com/#website",
+      "url": "https://gonzalezarmendariz.com/",
+      "name": "González Armendáriz",
+      "publisher": {
+        "@id": "https://gonzalezarmendariz.com/#organization"
+      },
+      "inLanguage": [
+        "es-MX",
+        "en-US"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://gonzalezarmendariz.com/en/services/audit-monterrey/#service",
+      "name": "Audit",
+      "serviceType": "Audit",
+      "url": "https://gonzalezarmendariz.com/en/services/audit-monterrey/",
+      "provider": {
+        "@id": "https://gonzalezarmendariz.com/#office"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Monterrey"
+        },
+        {
+          "@type": "City",
+          "name": "San Pedro Garza García"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://gonzalezarmendariz.com/en/services/audit-monterrey/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://gonzalezarmendariz.com/en/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Services",
+          "item": "https://gonzalezarmendariz.com/en/services/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Audit",
+          "item": "https://gonzalezarmendariz.com/en/services/audit-monterrey/"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://gonzalezarmendariz.com/en/services/audit-monterrey/#faq",
+      "inLanguage": "en-US",
+      "isPartOf": {
+        "@id": "https://gonzalezarmendariz.com/en/services/audit-monterrey/#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Does an audit examine every transaction?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Not necessarily. The nature and extent of procedures depend on the engagement type and applicable standards. The scope must be clearly understood before work begins."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you audit a company whose accounting is handled by another firm?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You can request an engagement assessment. The firm must consider independence requirements, information availability and the coordination needed with those responsible for the records."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can the report be used by a bank or investor?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "That depends on the recipient’s requirements. Share those requirements before commissioning the work so the required report type and the firm’s ability to undertake it can be confirmed."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does an audit guarantee that every irregularity will be detected?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Every review has objectives, a scope and limitations. It should not be presented as an absolute guarantee that errors or irregularities are absent, or as a promise of a favorable opinion."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What does our business need to get started?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A description of the requirement, the period concerned and the recipient’s conditions. The appropriate financial information and supporting documentation can then be specified."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://gonzalezarmendariz.com/en/services/audit-monterrey/#webpage",
+      "url": "https://gonzalezarmendariz.com/en/services/audit-monterrey/",
+      "name": "Audit | González Armendáriz",
+      "inLanguage": "en-US",
+      "isPartOf": {
+        "@id": "https://gonzalezarmendariz.com/#website"
+      },
+      "publisher": {
+        "@id": "https://gonzalezarmendariz.com/#organization"
+      },
+      "about": {
+        "@id": "https://gonzalezarmendariz.com/en/services/audit-monterrey/#service"
+      },
+      "breadcrumb": {
+        "@id": "https://gonzalezarmendariz.com/en/services/audit-monterrey/#breadcrumb"
+      },
+      "hasPart": {
+        "@id": "https://gonzalezarmendariz.com/en/services/audit-monterrey/#faq"
+      }
+    }
+  ]
+}

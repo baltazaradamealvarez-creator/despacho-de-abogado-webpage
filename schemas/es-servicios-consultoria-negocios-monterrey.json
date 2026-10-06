@@ -1,0 +1,174 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://gonzalezarmendariz.com/#organization",
+      "name": "González Armendáriz",
+      "url": "https://gonzalezarmendariz.com/",
+      "telephone": "+528183634412",
+      "founder": {
+        "@id": "https://gonzalezarmendariz.com/#alejandro-gonzalez"
+      },
+      "location": {
+        "@id": "https://gonzalezarmendariz.com/#office"
+      }
+    },
+    {
+      "@type": "AccountingService",
+      "@id": "https://gonzalezarmendariz.com/#office",
+      "name": "González Armendáriz",
+      "url": "https://gonzalezarmendariz.com/",
+      "telephone": "+528183634412",
+      "parentOrganization": {
+        "@id": "https://gonzalezarmendariz.com/#organization"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Av. Lázaro Cárdenas #2400 Pte., Edificio Losoles Int. PB 18, Col. Residencial San Agustín",
+        "addressLocality": "San Pedro Garza García",
+        "addressRegion": "Nuevo León",
+        "postalCode": "66260",
+        "addressCountry": "MX"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://gonzalezarmendariz.com/#alejandro-gonzalez",
+      "name": "Alejandro González",
+      "jobTitle": "Director Fundador",
+      "worksFor": {
+        "@id": "https://gonzalezarmendariz.com/#organization"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://gonzalezarmendariz.com/#website",
+      "url": "https://gonzalezarmendariz.com/",
+      "name": "González Armendáriz",
+      "publisher": {
+        "@id": "https://gonzalezarmendariz.com/#organization"
+      },
+      "inLanguage": [
+        "es-MX",
+        "en-US"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://gonzalezarmendariz.com/servicios/consultoria-negocios-monterrey/#service",
+      "name": "Consultoría de Negocios",
+      "serviceType": "Consultoría de Negocios",
+      "url": "https://gonzalezarmendariz.com/servicios/consultoria-negocios-monterrey/",
+      "provider": {
+        "@id": "https://gonzalezarmendariz.com/#office"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Monterrey"
+        },
+        {
+          "@type": "City",
+          "name": "San Pedro Garza García"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://gonzalezarmendariz.com/servicios/consultoria-negocios-monterrey/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://gonzalezarmendariz.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Servicios",
+          "item": "https://gonzalezarmendariz.com/servicios/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Consultoría de Negocios",
+          "item": "https://gonzalezarmendariz.com/servicios/consultoria-negocios-monterrey/"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://gonzalezarmendariz.com/servicios/consultoria-negocios-monterrey/#faq",
+      "inLanguage": "es-MX",
+      "isPartOf": {
+        "@id": "https://gonzalezarmendariz.com/servicios/consultoria-negocios-monterrey/#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Necesitamos tener el problema completamente definido?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No es indispensable para solicitar contacto. Describa qué decisión enfrenta o qué situación le preocupa. La conversación inicial sirve para delimitar la necesidad y valorar un posible proyecto."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿La consultoría incluye implementar las recomendaciones?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Solo si se acuerda expresamente. Una propuesta debe distinguir entre análisis, recomendaciones y acompañamiento de implementación, con responsables y entregables para cada parte contratada."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Pueden trabajar con nuestra información actual?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "La información disponible se revisa al definir el alcance. Si faltan datos relevantes, se identifican las limitaciones y lo que conviene obtener antes de formular conclusiones."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuánto tiempo dura un proyecto?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depende de la pregunta, la disponibilidad de información y las personas involucradas. El calendario se define en la propuesta; no se ofrece un plazo estándar sin conocer el caso."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿La consultoría garantiza mayores utilidades?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. El servicio aporta elementos para decidir. Los resultados dependen de la ejecución, del mercado y de otros factores del negocio que deben considerarse al evaluar las recomendaciones."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://gonzalezarmendariz.com/servicios/consultoria-negocios-monterrey/#webpage",
+      "url": "https://gonzalezarmendariz.com/servicios/consultoria-negocios-monterrey/",
+      "name": "Consultoría de Negocios | González Armendáriz",
+      "inLanguage": "es-MX",
+      "isPartOf": {
+        "@id": "https://gonzalezarmendariz.com/#website"
+      },
+      "publisher": {
+        "@id": "https://gonzalezarmendariz.com/#organization"
+      },
+      "about": {
+        "@id": "https://gonzalezarmendariz.com/servicios/consultoria-negocios-monterrey/#service"
+      },
+      "breadcrumb": {
+        "@id": "https://gonzalezarmendariz.com/servicios/consultoria-negocios-monterrey/#breadcrumb"
+      },
+      "hasPart": {
+        "@id": "https://gonzalezarmendariz.com/servicios/consultoria-negocios-monterrey/#faq"
+      }
+    }
+  ]
+}

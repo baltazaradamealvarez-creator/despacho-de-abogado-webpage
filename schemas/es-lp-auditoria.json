@@ -1,0 +1,131 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://gonzalezarmendariz.com/#organization",
+      "name": "González Armendáriz",
+      "url": "https://gonzalezarmendariz.com/",
+      "telephone": "+528183634412",
+      "founder": {
+        "@id": "https://gonzalezarmendariz.com/#alejandro-gonzalez"
+      },
+      "location": {
+        "@id": "https://gonzalezarmendariz.com/#office"
+      }
+    },
+    {
+      "@type": "AccountingService",
+      "@id": "https://gonzalezarmendariz.com/#office",
+      "name": "González Armendáriz",
+      "url": "https://gonzalezarmendariz.com/",
+      "telephone": "+528183634412",
+      "parentOrganization": {
+        "@id": "https://gonzalezarmendariz.com/#organization"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Av. Lázaro Cárdenas #2400 Pte., Edificio Losoles Int. PB 18, Col. Residencial San Agustín",
+        "addressLocality": "San Pedro Garza García",
+        "addressRegion": "Nuevo León",
+        "postalCode": "66260",
+        "addressCountry": "MX"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://gonzalezarmendariz.com/#alejandro-gonzalez",
+      "name": "Alejandro González",
+      "jobTitle": "Director Fundador",
+      "worksFor": {
+        "@id": "https://gonzalezarmendariz.com/#organization"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://gonzalezarmendariz.com/#website",
+      "url": "https://gonzalezarmendariz.com/",
+      "name": "González Armendáriz",
+      "publisher": {
+        "@id": "https://gonzalezarmendariz.com/#organization"
+      },
+      "inLanguage": [
+        "es-MX",
+        "en-US"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://gonzalezarmendariz.com/servicios/auditoria-monterrey/#service",
+      "name": "Auditoría",
+      "serviceType": "Auditoría",
+      "url": "https://gonzalezarmendariz.com/servicios/auditoria-monterrey/",
+      "provider": {
+        "@id": "https://gonzalezarmendariz.com/#office"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Monterrey"
+        },
+        {
+          "@type": "City",
+          "name": "San Pedro Garza García"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://gonzalezarmendariz.com/lp/auditoria/#faq",
+      "inLanguage": "es-MX",
+      "isPartOf": {
+        "@id": "https://gonzalezarmendariz.com/lp/auditoria/#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿El informe puede presentarse a un banco?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depende de sus requisitos. Compártalos antes de contratar para confirmar el tipo de informe y si la firma puede atender el encargo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿La auditoría garantiza detectar cualquier irregularidad?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Toda revisión tiene objetivos, alcance y limitaciones. Tampoco puede prometerse una opinión favorable antes de realizar el trabajo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué información necesitan para cotizar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "El periodo de interés, el motivo de la revisión y los requisitos del destinatario. Después se precisan los documentos necesarios."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://gonzalezarmendariz.com/lp/auditoria/#webpage",
+      "url": "https://gonzalezarmendariz.com/lp/auditoria/",
+      "name": "Auditoría | González Armendáriz",
+      "inLanguage": "es-MX",
+      "isPartOf": {
+        "@id": "https://gonzalezarmendariz.com/#website"
+      },
+      "publisher": {
+        "@id": "https://gonzalezarmendariz.com/#organization"
+      },
+      "about": {
+        "@id": "https://gonzalezarmendariz.com/servicios/auditoria-monterrey/#service"
+      },
+      "hasPart": {
+        "@id": "https://gonzalezarmendariz.com/lp/auditoria/#faq"
+      }
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://gonzalezarmendariz.com/#organization",
+      "name": "González Armendáriz",
+      "url": "https://gonzalezarmendariz.com/",
+      "telephone": "+528183634412",
+      "founder": {
+        "@id": "https://gonzalezarmendariz.com/#alejandro-gonzalez"
+      },
+      "location": {
+        "@id": "https://gonzalezarmendariz.com/#office"
+      }
+    },
+    {
+      "@type": "AccountingService",
+      "@id": "https://gonzalezarmendariz.com/#office",
+      "name": "González Armendáriz",
+      "url": "https://gonzalezarmendariz.com/",
+      "telephone": "+528183634412",
+      "parentOrganization": {
+        "@id": "https://gonzalezarmendariz.com/#organization"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Av. Lázaro Cárdenas #2400 Pte., Edificio Losoles Int. PB 18, Col. Residencial San Agustín",
+        "addressLocality": "San Pedro Garza García",
+        "addressRegion": "Nuevo León",
+        "postalCode": "66260",
+        "addressCountry": "MX"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://gonzalezarmendariz.com/#alejandro-gonzalez",
+      "name": "Alejandro González",
+      "jobTitle": "Director Fundador",
+      "worksFor": {
+        "@id": "https://gonzalezarmendariz.com/#organization"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://gonzalezarmendariz.com/#website",
+      "url": "https://gonzalezarmendariz.com/",
+      "name": "González Armendáriz",
+      "publisher": {
+        "@id": "https://gonzalezarmendariz.com/#organization"
+      },
+      "inLanguage": [
+        "es-MX",
+        "en-US"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://gonzalezarmendariz.com/servicios/contabilidad-monterrey/#service",
+      "name": "Contabilidad y Cumplimiento Fiscal",
+      "serviceType": "Contabilidad y Cumplimiento Fiscal",
+      "url": "https://gonzalezarmendariz.com/servicios/contabilidad-monterrey/",
+      "provider": {
+        "@id": "https://gonzalezarmendariz.com/#office"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Monterrey"
+        },
+        {
+          "@type": "City",
+          "name": "San Pedro Garza García"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://gonzalezarmendariz.com/servicios/contabilidad-monterrey/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://gonzalezarmendariz.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Servicios",
+          "item": "https://gonzalezarmendariz.com/servicios/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Contabilidad y Cumplimiento Fiscal",
+          "item": "https://gonzalezarmendariz.com/servicios/contabilidad-monterrey/"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://gonzalezarmendariz.com/servicios/contabilidad-monterrey/#faq",
+      "inLanguage": "es-MX",
+      "isPartOf": {
+        "@id": "https://gonzalezarmendariz.com/servicios/contabilidad-monterrey/#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Pueden coordinarse con nuestro equipo interno?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "La propuesta puede contemplar una distribución de responsabilidades con su equipo. Antes de iniciar se define quién prepara la información, quién la revisa y quién autoriza las acciones correspondientes."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Incluye declaraciones de impuestos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Las obligaciones y declaraciones incluidas deben quedar expresamente identificadas en la propuesta. El alcance depende de la actividad, situación fiscal y necesidades de su empresa."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué documentos necesito para empezar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Primero se revisa su necesidad. Después se solicita la información pertinente, que puede incluir registros contables, reportes y documentación fiscal. No envíe información confidencial por el formulario inicial."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Pueden revisar periodos anteriores?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Puede solicitar una evaluación de esa necesidad. La disponibilidad de documentos y la extensión de los periodos determinarán si se requiere un alcance adicional y una propuesta específica."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cómo se determinan los honorarios?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Se consideran el volumen de operación, las obligaciones incluidas y el estado de la información. La propuesta debe indicar qué cubre el servicio y qué trabajos se cotizan por separado."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://gonzalezarmendariz.com/servicios/contabilidad-monterrey/#webpage",
+      "url": "https://gonzalezarmendariz.com/servicios/contabilidad-monterrey/",
+      "name": "Contabilidad y Cumplimiento Fiscal | González Armendáriz",
+      "inLanguage": "es-MX",
+      "isPartOf": {
+        "@id": "https://gonzalezarmendariz.com/#website"
+      },
+      "publisher": {
+        "@id": "https://gonzalezarmendariz.com/#organization"
+      },
+      "about": {
+        "@id": "https://gonzalezarmendariz.com/servicios/contabilidad-monterrey/#service"
+      },
+      "breadcrumb": {
+        "@id": "https://gonzalezarmendariz.com/servicios/contabilidad-monterrey/#breadcrumb"
+      },
+      "hasPart": {
+        "@id": "https://gonzalezarmendariz.com/servicios/contabilidad-monterrey/#faq"
+      }
+    }
+  ]
+}

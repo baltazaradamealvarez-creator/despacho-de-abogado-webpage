@@ -1,0 +1,174 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://gonzalezarmendariz.com/#organization",
+      "name": "González Armendáriz",
+      "url": "https://gonzalezarmendariz.com/",
+      "telephone": "+528183634412",
+      "founder": {
+        "@id": "https://gonzalezarmendariz.com/#alejandro-gonzalez"
+      },
+      "location": {
+        "@id": "https://gonzalezarmendariz.com/#office"
+      }
+    },
+    {
+      "@type": "AccountingService",
+      "@id": "https://gonzalezarmendariz.com/#office",
+      "name": "González Armendáriz",
+      "url": "https://gonzalezarmendariz.com/en/",
+      "telephone": "+528183634412",
+      "parentOrganization": {
+        "@id": "https://gonzalezarmendariz.com/#organization"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Av. Lázaro Cárdenas #2400 Pte., Edificio Losoles Int. PB 18, Col. Residencial San Agustín",
+        "addressLocality": "San Pedro Garza García",
+        "addressRegion": "Nuevo León",
+        "postalCode": "66260",
+        "addressCountry": "MX"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://gonzalezarmendariz.com/#alejandro-gonzalez",
+      "name": "Alejandro González",
+      "jobTitle": "Founding Director",
+      "worksFor": {
+        "@id": "https://gonzalezarmendariz.com/#organization"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://gonzalezarmendariz.com/#website",
+      "url": "https://gonzalezarmendariz.com/",
+      "name": "González Armendáriz",
+      "publisher": {
+        "@id": "https://gonzalezarmendariz.com/#organization"
+      },
+      "inLanguage": [
+        "es-MX",
+        "en-US"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://gonzalezarmendariz.com/en/services/tax-advisory-monterrey/#service",
+      "name": "Tax Advisory",
+      "serviceType": "Tax Advisory",
+      "url": "https://gonzalezarmendariz.com/en/services/tax-advisory-monterrey/",
+      "provider": {
+        "@id": "https://gonzalezarmendariz.com/#office"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Monterrey"
+        },
+        {
+          "@type": "City",
+          "name": "San Pedro Garza García"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://gonzalezarmendariz.com/en/services/tax-advisory-monterrey/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://gonzalezarmendariz.com/en/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Services",
+          "item": "https://gonzalezarmendariz.com/en/services/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Tax Advisory",
+          "item": "https://gonzalezarmendariz.com/en/services/tax-advisory-monterrey/"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://gonzalezarmendariz.com/en/services/tax-advisory-monterrey/#faq",
+      "inLanguage": "en-US",
+      "isPartOf": {
+        "@id": "https://gonzalezarmendariz.com/en/services/tax-advisory-monterrey/#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Does tax advisory guarantee lower taxes?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Advisory work evaluates obligations, alternatives and risks within the law. Outcomes depend on your business facts and the applicable rules. No specific tax saving is promised."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can we discuss a transaction before carrying it out?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You can bring a proposed transaction to the consultation. An early review helps identify missing information and tax considerations that should be understood before a decision is made."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is this the same as accounting?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Accounting records and organizes recurring information. Tax advisory examines specific questions or decisions. The two services can complement each other where the engagement requires it."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What if we receive a notice from a tax authority?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "State the document type and date received when requesting contact, without attaching sensitive data. The firm must assess the matter and confirm whether it can assist, under what scope and within which timeframe."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Will we receive a written opinion?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Deliverable formats and scope should be agreed in the proposal. An initial conversation does not replace a documented assessment or constitute a professional conclusion about your case."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://gonzalezarmendariz.com/en/services/tax-advisory-monterrey/#webpage",
+      "url": "https://gonzalezarmendariz.com/en/services/tax-advisory-monterrey/",
+      "name": "Tax Advisory | González Armendáriz",
+      "inLanguage": "en-US",
+      "isPartOf": {
+        "@id": "https://gonzalezarmendariz.com/#website"
+      },
+      "publisher": {
+        "@id": "https://gonzalezarmendariz.com/#organization"
+      },
+      "about": {
+        "@id": "https://gonzalezarmendariz.com/en/services/tax-advisory-monterrey/#service"
+      },
+      "breadcrumb": {
+        "@id": "https://gonzalezarmendariz.com/en/services/tax-advisory-monterrey/#breadcrumb"
+      },
+      "hasPart": {
+        "@id": "https://gonzalezarmendariz.com/en/services/tax-advisory-monterrey/#faq"
+      }
+    }
+  ]
+}

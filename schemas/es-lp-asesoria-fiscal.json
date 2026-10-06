@@ -1,0 +1,131 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://gonzalezarmendariz.com/#organization",
+      "name": "González Armendáriz",
+      "url": "https://gonzalezarmendariz.com/",
+      "telephone": "+528183634412",
+      "founder": {
+        "@id": "https://gonzalezarmendariz.com/#alejandro-gonzalez"
+      },
+      "location": {
+        "@id": "https://gonzalezarmendariz.com/#office"
+      }
+    },
+    {
+      "@type": "AccountingService",
+      "@id": "https://gonzalezarmendariz.com/#office",
+      "name": "González Armendáriz",
+      "url": "https://gonzalezarmendariz.com/",
+      "telephone": "+528183634412",
+      "parentOrganization": {
+        "@id": "https://gonzalezarmendariz.com/#organization"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Av. Lázaro Cárdenas #2400 Pte., Edificio Losoles Int. PB 18, Col. Residencial San Agustín",
+        "addressLocality": "San Pedro Garza García",
+        "addressRegion": "Nuevo León",
+        "postalCode": "66260",
+        "addressCountry": "MX"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://gonzalezarmendariz.com/#alejandro-gonzalez",
+      "name": "Alejandro González",
+      "jobTitle": "Director Fundador",
+      "worksFor": {
+        "@id": "https://gonzalezarmendariz.com/#organization"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://gonzalezarmendariz.com/#website",
+      "url": "https://gonzalezarmendariz.com/",
+      "name": "González Armendáriz",
+      "publisher": {
+        "@id": "https://gonzalezarmendariz.com/#organization"
+      },
+      "inLanguage": [
+        "es-MX",
+        "en-US"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://gonzalezarmendariz.com/servicios/asesoria-fiscal-monterrey/#service",
+      "name": "Asesoría Fiscal",
+      "serviceType": "Asesoría Fiscal",
+      "url": "https://gonzalezarmendariz.com/servicios/asesoria-fiscal-monterrey/",
+      "provider": {
+        "@id": "https://gonzalezarmendariz.com/#office"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Monterrey"
+        },
+        {
+          "@type": "City",
+          "name": "San Pedro Garza García"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://gonzalezarmendariz.com/lp/asesoria-fiscal/#faq",
+      "inLanguage": "es-MX",
+      "isPartOf": {
+        "@id": "https://gonzalezarmendariz.com/lp/asesoria-fiscal/#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Puedo consultar antes de realizar una operación?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí puede plantear una decisión que está considerando. El análisis depende de los antecedentes y de la documentación disponible."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Garantizan un ahorro de impuestos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. La asesoría evalúa obligaciones, alternativas y riesgos conforme a la ley. No se promete un ahorro determinado."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿La consulta incluye una opinión por escrito?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "El formato y alcance de los entregables se acuerdan en la propuesta. La conversación inicial no sustituye un análisis documentado."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://gonzalezarmendariz.com/lp/asesoria-fiscal/#webpage",
+      "url": "https://gonzalezarmendariz.com/lp/asesoria-fiscal/",
+      "name": "Asesoría Fiscal | González Armendáriz",
+      "inLanguage": "es-MX",
+      "isPartOf": {
+        "@id": "https://gonzalezarmendariz.com/#website"
+      },
+      "publisher": {
+        "@id": "https://gonzalezarmendariz.com/#organization"
+      },
+      "about": {
+        "@id": "https://gonzalezarmendariz.com/servicios/asesoria-fiscal-monterrey/#service"
+      },
+      "hasPart": {
+        "@id": "https://gonzalezarmendariz.com/lp/asesoria-fiscal/#faq"
+      }
+    }
+  ]
+}

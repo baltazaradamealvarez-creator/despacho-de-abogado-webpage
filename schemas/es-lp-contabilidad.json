@@ -1,0 +1,131 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://gonzalezarmendariz.com/#organization",
+      "name": "González Armendáriz",
+      "url": "https://gonzalezarmendariz.com/",
+      "telephone": "+528183634412",
+      "founder": {
+        "@id": "https://gonzalezarmendariz.com/#alejandro-gonzalez"
+      },
+      "location": {
+        "@id": "https://gonzalezarmendariz.com/#office"
+      }
+    },
+    {
+      "@type": "AccountingService",
+      "@id": "https://gonzalezarmendariz.com/#office",
+      "name": "González Armendáriz",
+      "url": "https://gonzalezarmendariz.com/",
+      "telephone": "+528183634412",
+      "parentOrganization": {
+        "@id": "https://gonzalezarmendariz.com/#organization"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Av. Lázaro Cárdenas #2400 Pte., Edificio Losoles Int. PB 18, Col. Residencial San Agustín",
+        "addressLocality": "San Pedro Garza García",
+        "addressRegion": "Nuevo León",
+        "postalCode": "66260",
+        "addressCountry": "MX"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://gonzalezarmendariz.com/#alejandro-gonzalez",
+      "name": "Alejandro González",
+      "jobTitle": "Director Fundador",
+      "worksFor": {
+        "@id": "https://gonzalezarmendariz.com/#organization"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://gonzalezarmendariz.com/#website",
+      "url": "https://gonzalezarmendariz.com/",
+      "name": "González Armendáriz",
+      "publisher": {
+        "@id": "https://gonzalezarmendariz.com/#organization"
+      },
+      "inLanguage": [
+        "es-MX",
+        "en-US"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://gonzalezarmendariz.com/servicios/contabilidad-monterrey/#service",
+      "name": "Contabilidad y Cumplimiento Fiscal",
+      "serviceType": "Contabilidad y Cumplimiento Fiscal",
+      "url": "https://gonzalezarmendariz.com/servicios/contabilidad-monterrey/",
+      "provider": {
+        "@id": "https://gonzalezarmendariz.com/#office"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Monterrey"
+        },
+        {
+          "@type": "City",
+          "name": "San Pedro Garza García"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://gonzalezarmendariz.com/lp/contabilidad/#faq",
+      "inLanguage": "es-MX",
+      "isPartOf": {
+        "@id": "https://gonzalezarmendariz.com/lp/contabilidad/#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Podemos conservar a nuestro contador interno?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "La propuesta puede definir una coordinación con su equipo. Las responsabilidades y el alcance se acuerdan antes de comenzar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué incluye el servicio?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Los reportes, periodos y obligaciones incluidos dependen de su operación y quedan expresamente indicados en la propuesta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cómo se calculan los honorarios?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Se consideran el volumen de operación, el estado de la información y el alcance requerido. No hay una tarifa publicada para todos los casos."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://gonzalezarmendariz.com/lp/contabilidad/#webpage",
+      "url": "https://gonzalezarmendariz.com/lp/contabilidad/",
+      "name": "Contabilidad y Cumplimiento Fiscal | González Armendáriz",
+      "inLanguage": "es-MX",
+      "isPartOf": {
+        "@id": "https://gonzalezarmendariz.com/#website"
+      },
+      "publisher": {
+        "@id": "https://gonzalezarmendariz.com/#organization"
+      },
+      "about": {
+        "@id": "https://gonzalezarmendariz.com/servicios/contabilidad-monterrey/#service"
+      },
+      "hasPart": {
+        "@id": "https://gonzalezarmendariz.com/lp/contabilidad/#faq"
+      }
+    }
+  ]
+}

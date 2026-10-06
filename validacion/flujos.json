@@ -1,0 +1,9 @@
+{
+  "reject": true,
+  "escape": true,
+  "persistence": true,
+  "withdrawal": true,
+  "noMapBefore": true,
+  "mapAddressAfterClick": true,
+  "noMessagesSent": true
+}

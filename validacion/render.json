@@ -1,0 +1,10 @@
+{
+  "schema_url": "https://render.com/schema/render.yaml.json",
+  "schema_valid": true,
+  "runtime": "static",
+  "branch": "claude/rediseno-gonzalez-armendariz",
+  "publish_directory": "./site",
+  "html_routes": 8,
+  "local_assets_valid": true,
+  "render_deployment_created": false
+}
