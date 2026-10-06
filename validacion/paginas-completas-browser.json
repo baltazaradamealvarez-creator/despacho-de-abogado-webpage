@@ -1,0 +1,4256 @@
+{
+  "views": 380,
+  "checks": [
+    {
+      "path": "/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/lp/contabilidad/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/lp/asesoria-fiscal/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/lp/auditoria/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/servicios/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/servicios/contabilidad-monterrey/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/servicios/asesoria-fiscal-monterrey/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/servicios/auditoria-monterrey/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/servicios/consultoria-negocios-monterrey/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/servicios/servicios-administrativos-monterrey/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/nosotros/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/equipo/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/contacto/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/preparar-contabilidad-empresa/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/decision-fiscal-empresa/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/preparar-auditoria-financiera/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/presupuesto-empresarial/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/orden-administrativo-empresa/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/preparar-cierre-contable/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/cancelacion-de-cfdi-en-2025-reglas-plazos-y-consejos-para-evitar-sanciones/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/declaracion-anual-de-personas-fisicas-todo-lo-que-necesitas-saber/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/declaracion-anual-de-personas-morales-todo-lo-que-necesitas-saber/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/declaracion-anual-de-isr-importancia-obligaciones-y-plazos-para-personas-fisicas-y-morales/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/que-es-el-regimen-resico-y-por-que-es-ideal-para-ti/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/perspectivas-economicas-2025/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/la-importancia-de-elaborar-un-presupuesto-anual/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/consejos-para-un-buen-cierre-contable-y-fiscal-personas-fisicas-y-morales/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/implicaciones-fiscales-de-la-liquidacion-de-una-sociedad-en-mexico/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/deducciones-personales-en-el-sat-para-personas-fisica/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/la-ia-en-contabilidad/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/ptu-que-es-beneficios-y-sanciones-si-no-la-pagas/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/se-modifica-la-ley-de-amparos-fiscales/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/el-sistema-fiscal-ayuda-a-tu-empresa/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/el-nuevo-mundo-de-las-finanzas-contables/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/aviso-de-privacidad/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 0,
+      "enabled": true
+    },
+    {
+      "path": "/politica-de-cookies/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 0,
+      "enabled": true
+    },
+    {
+      "path": "/trabajo/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 0,
+      "enabled": true
+    },
+    {
+      "path": "/en/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/lp/accounting/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/lp/tax-advisory/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/lp/audit/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/services/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/services/accounting-monterrey/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/services/tax-advisory-monterrey/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/services/audit-monterrey/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/services/business-consulting-monterrey/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/services/administrative-services-monterrey/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/about/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/team/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/contact/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/prepare-business-accounting/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/business-tax-decisions/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/prepare-financial-audit/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/business-budget/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/business-administration/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/prepare-accounting-close/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/cancelacion-de-cfdi-en-2025-reglas-plazos-y-consejos-para-evitar-sanciones/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/declaracion-anual-de-personas-fisicas-todo-lo-que-necesitas-saber/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/declaracion-anual-de-personas-morales-todo-lo-que-necesitas-saber/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/declaracion-anual-de-isr-importancia-obligaciones-y-plazos-para-personas-fisicas-y-morales/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/que-es-el-regimen-resico-y-por-que-es-ideal-para-ti/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/perspectivas-economicas-2025/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/la-importancia-de-elaborar-un-presupuesto-anual/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/consejos-para-un-buen-cierre-contable-y-fiscal-personas-fisicas-y-morales/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/implicaciones-fiscales-de-la-liquidacion-de-una-sociedad-en-mexico/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/deducciones-personales-en-el-sat-para-personas-fisica/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/la-ia-en-contabilidad/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/ptu-que-es-beneficios-y-sanciones-si-no-la-pagas/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/there-will-be-no-tax-reform-in-mexico-sat-will-go-after-large-taxpayers/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/buenrostro-foresees-tax-reform-by-september/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/how-did-outsourcing-2021-end-up-in-mexico/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/privacy-notice/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 0,
+      "enabled": true
+    },
+    {
+      "path": "/en/cookie-policy/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 0,
+      "enabled": true
+    },
+    {
+      "path": "/en/careers/",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 0,
+      "enabled": true
+    },
+    {
+      "path": "/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/lp/contabilidad/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/lp/asesoria-fiscal/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/lp/auditoria/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/servicios/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/servicios/contabilidad-monterrey/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/servicios/asesoria-fiscal-monterrey/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/servicios/auditoria-monterrey/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/servicios/consultoria-negocios-monterrey/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/servicios/servicios-administrativos-monterrey/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/nosotros/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/equipo/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/contacto/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/preparar-contabilidad-empresa/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/decision-fiscal-empresa/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/preparar-auditoria-financiera/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/presupuesto-empresarial/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/orden-administrativo-empresa/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/preparar-cierre-contable/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/cancelacion-de-cfdi-en-2025-reglas-plazos-y-consejos-para-evitar-sanciones/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/declaracion-anual-de-personas-fisicas-todo-lo-que-necesitas-saber/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/declaracion-anual-de-personas-morales-todo-lo-que-necesitas-saber/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/declaracion-anual-de-isr-importancia-obligaciones-y-plazos-para-personas-fisicas-y-morales/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/que-es-el-regimen-resico-y-por-que-es-ideal-para-ti/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/perspectivas-economicas-2025/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/la-importancia-de-elaborar-un-presupuesto-anual/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/consejos-para-un-buen-cierre-contable-y-fiscal-personas-fisicas-y-morales/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/implicaciones-fiscales-de-la-liquidacion-de-una-sociedad-en-mexico/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/deducciones-personales-en-el-sat-para-personas-fisica/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/la-ia-en-contabilidad/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/ptu-que-es-beneficios-y-sanciones-si-no-la-pagas/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/se-modifica-la-ley-de-amparos-fiscales/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/el-sistema-fiscal-ayuda-a-tu-empresa/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/el-nuevo-mundo-de-las-finanzas-contables/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/aviso-de-privacidad/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 0,
+      "enabled": true
+    },
+    {
+      "path": "/politica-de-cookies/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 0,
+      "enabled": true
+    },
+    {
+      "path": "/trabajo/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 0,
+      "enabled": true
+    },
+    {
+      "path": "/en/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/lp/accounting/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/lp/tax-advisory/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/lp/audit/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/services/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/services/accounting-monterrey/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/services/tax-advisory-monterrey/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/services/audit-monterrey/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/services/business-consulting-monterrey/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/services/administrative-services-monterrey/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/about/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/team/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/contact/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/prepare-business-accounting/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/business-tax-decisions/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/prepare-financial-audit/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/business-budget/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/business-administration/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/prepare-accounting-close/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/cancelacion-de-cfdi-en-2025-reglas-plazos-y-consejos-para-evitar-sanciones/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/declaracion-anual-de-personas-fisicas-todo-lo-que-necesitas-saber/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/declaracion-anual-de-personas-morales-todo-lo-que-necesitas-saber/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/declaracion-anual-de-isr-importancia-obligaciones-y-plazos-para-personas-fisicas-y-morales/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/que-es-el-regimen-resico-y-por-que-es-ideal-para-ti/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/perspectivas-economicas-2025/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/la-importancia-de-elaborar-un-presupuesto-anual/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/consejos-para-un-buen-cierre-contable-y-fiscal-personas-fisicas-y-morales/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/implicaciones-fiscales-de-la-liquidacion-de-una-sociedad-en-mexico/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/deducciones-personales-en-el-sat-para-personas-fisica/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/la-ia-en-contabilidad/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/ptu-que-es-beneficios-y-sanciones-si-no-la-pagas/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/there-will-be-no-tax-reform-in-mexico-sat-will-go-after-large-taxpayers/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/buenrostro-foresees-tax-reform-by-september/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/how-did-outsourcing-2021-end-up-in-mexico/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/privacy-notice/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 0,
+      "enabled": true
+    },
+    {
+      "path": "/en/cookie-policy/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 0,
+      "enabled": true
+    },
+    {
+      "path": "/en/careers/",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 0,
+      "enabled": true
+    },
+    {
+      "path": "/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/lp/contabilidad/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/lp/asesoria-fiscal/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/lp/auditoria/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/servicios/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/servicios/contabilidad-monterrey/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/servicios/asesoria-fiscal-monterrey/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/servicios/auditoria-monterrey/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/servicios/consultoria-negocios-monterrey/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/servicios/servicios-administrativos-monterrey/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/nosotros/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/equipo/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/contacto/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/preparar-contabilidad-empresa/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/decision-fiscal-empresa/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/preparar-auditoria-financiera/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/presupuesto-empresarial/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/orden-administrativo-empresa/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/preparar-cierre-contable/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/cancelacion-de-cfdi-en-2025-reglas-plazos-y-consejos-para-evitar-sanciones/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/declaracion-anual-de-personas-fisicas-todo-lo-que-necesitas-saber/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/declaracion-anual-de-personas-morales-todo-lo-que-necesitas-saber/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/declaracion-anual-de-isr-importancia-obligaciones-y-plazos-para-personas-fisicas-y-morales/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/que-es-el-regimen-resico-y-por-que-es-ideal-para-ti/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/perspectivas-economicas-2025/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/la-importancia-de-elaborar-un-presupuesto-anual/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/consejos-para-un-buen-cierre-contable-y-fiscal-personas-fisicas-y-morales/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/implicaciones-fiscales-de-la-liquidacion-de-una-sociedad-en-mexico/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/deducciones-personales-en-el-sat-para-personas-fisica/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/la-ia-en-contabilidad/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/ptu-que-es-beneficios-y-sanciones-si-no-la-pagas/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/se-modifica-la-ley-de-amparos-fiscales/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/el-sistema-fiscal-ayuda-a-tu-empresa/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/el-nuevo-mundo-de-las-finanzas-contables/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/aviso-de-privacidad/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 0,
+      "enabled": true
+    },
+    {
+      "path": "/politica-de-cookies/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 0,
+      "enabled": true
+    },
+    {
+      "path": "/trabajo/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 0,
+      "enabled": true
+    },
+    {
+      "path": "/en/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/lp/accounting/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/lp/tax-advisory/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/lp/audit/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/services/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/services/accounting-monterrey/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/services/tax-advisory-monterrey/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/services/audit-monterrey/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/services/business-consulting-monterrey/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/services/administrative-services-monterrey/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/about/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/team/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/contact/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/prepare-business-accounting/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/business-tax-decisions/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/prepare-financial-audit/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/business-budget/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/business-administration/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/prepare-accounting-close/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/cancelacion-de-cfdi-en-2025-reglas-plazos-y-consejos-para-evitar-sanciones/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/declaracion-anual-de-personas-fisicas-todo-lo-que-necesitas-saber/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/declaracion-anual-de-personas-morales-todo-lo-que-necesitas-saber/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/declaracion-anual-de-isr-importancia-obligaciones-y-plazos-para-personas-fisicas-y-morales/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/que-es-el-regimen-resico-y-por-que-es-ideal-para-ti/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/perspectivas-economicas-2025/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/la-importancia-de-elaborar-un-presupuesto-anual/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/consejos-para-un-buen-cierre-contable-y-fiscal-personas-fisicas-y-morales/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/implicaciones-fiscales-de-la-liquidacion-de-una-sociedad-en-mexico/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/deducciones-personales-en-el-sat-para-personas-fisica/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/la-ia-en-contabilidad/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/ptu-que-es-beneficios-y-sanciones-si-no-la-pagas/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/there-will-be-no-tax-reform-in-mexico-sat-will-go-after-large-taxpayers/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/buenrostro-foresees-tax-reform-by-september/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/how-did-outsourcing-2021-end-up-in-mexico/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/privacy-notice/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 0,
+      "enabled": true
+    },
+    {
+      "path": "/en/cookie-policy/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 0,
+      "enabled": true
+    },
+    {
+      "path": "/en/careers/",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 0,
+      "enabled": true
+    },
+    {
+      "path": "/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/lp/contabilidad/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/lp/asesoria-fiscal/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/lp/auditoria/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/servicios/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/servicios/contabilidad-monterrey/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/servicios/asesoria-fiscal-monterrey/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/servicios/auditoria-monterrey/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/servicios/consultoria-negocios-monterrey/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/servicios/servicios-administrativos-monterrey/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/nosotros/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/equipo/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/contacto/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/preparar-contabilidad-empresa/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/decision-fiscal-empresa/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/preparar-auditoria-financiera/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/presupuesto-empresarial/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/orden-administrativo-empresa/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/preparar-cierre-contable/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/cancelacion-de-cfdi-en-2025-reglas-plazos-y-consejos-para-evitar-sanciones/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/declaracion-anual-de-personas-fisicas-todo-lo-que-necesitas-saber/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/declaracion-anual-de-personas-morales-todo-lo-que-necesitas-saber/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/declaracion-anual-de-isr-importancia-obligaciones-y-plazos-para-personas-fisicas-y-morales/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/que-es-el-regimen-resico-y-por-que-es-ideal-para-ti/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/perspectivas-economicas-2025/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/la-importancia-de-elaborar-un-presupuesto-anual/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/consejos-para-un-buen-cierre-contable-y-fiscal-personas-fisicas-y-morales/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/implicaciones-fiscales-de-la-liquidacion-de-una-sociedad-en-mexico/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/deducciones-personales-en-el-sat-para-personas-fisica/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/la-ia-en-contabilidad/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/ptu-que-es-beneficios-y-sanciones-si-no-la-pagas/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/se-modifica-la-ley-de-amparos-fiscales/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/el-sistema-fiscal-ayuda-a-tu-empresa/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/el-nuevo-mundo-de-las-finanzas-contables/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/aviso-de-privacidad/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 0,
+      "enabled": true
+    },
+    {
+      "path": "/politica-de-cookies/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 0,
+      "enabled": true
+    },
+    {
+      "path": "/trabajo/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 0,
+      "enabled": true
+    },
+    {
+      "path": "/en/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/lp/accounting/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/lp/tax-advisory/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/lp/audit/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/services/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/services/accounting-monterrey/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/services/tax-advisory-monterrey/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/services/audit-monterrey/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/services/business-consulting-monterrey/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/services/administrative-services-monterrey/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/about/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/team/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/contact/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/prepare-business-accounting/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/business-tax-decisions/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/prepare-financial-audit/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/business-budget/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/business-administration/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/prepare-accounting-close/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/cancelacion-de-cfdi-en-2025-reglas-plazos-y-consejos-para-evitar-sanciones/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/declaracion-anual-de-personas-fisicas-todo-lo-que-necesitas-saber/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/declaracion-anual-de-personas-morales-todo-lo-que-necesitas-saber/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/declaracion-anual-de-isr-importancia-obligaciones-y-plazos-para-personas-fisicas-y-morales/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/que-es-el-regimen-resico-y-por-que-es-ideal-para-ti/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/perspectivas-economicas-2025/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/la-importancia-de-elaborar-un-presupuesto-anual/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/consejos-para-un-buen-cierre-contable-y-fiscal-personas-fisicas-y-morales/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/implicaciones-fiscales-de-la-liquidacion-de-una-sociedad-en-mexico/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/deducciones-personales-en-el-sat-para-personas-fisica/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/la-ia-en-contabilidad/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/ptu-que-es-beneficios-y-sanciones-si-no-la-pagas/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/there-will-be-no-tax-reform-in-mexico-sat-will-go-after-large-taxpayers/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/buenrostro-foresees-tax-reform-by-september/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/how-did-outsourcing-2021-end-up-in-mexico/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/privacy-notice/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 0,
+      "enabled": true
+    },
+    {
+      "path": "/en/cookie-policy/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 0,
+      "enabled": true
+    },
+    {
+      "path": "/en/careers/",
+      "width": 1024,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 0,
+      "enabled": true
+    },
+    {
+      "path": "/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/lp/contabilidad/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/lp/asesoria-fiscal/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/lp/auditoria/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/servicios/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/servicios/contabilidad-monterrey/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/servicios/asesoria-fiscal-monterrey/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/servicios/auditoria-monterrey/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/servicios/consultoria-negocios-monterrey/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/servicios/servicios-administrativos-monterrey/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/nosotros/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/equipo/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/contacto/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/preparar-contabilidad-empresa/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/decision-fiscal-empresa/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/preparar-auditoria-financiera/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/presupuesto-empresarial/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/orden-administrativo-empresa/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/preparar-cierre-contable/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/cancelacion-de-cfdi-en-2025-reglas-plazos-y-consejos-para-evitar-sanciones/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/declaracion-anual-de-personas-fisicas-todo-lo-que-necesitas-saber/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/declaracion-anual-de-personas-morales-todo-lo-que-necesitas-saber/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/declaracion-anual-de-isr-importancia-obligaciones-y-plazos-para-personas-fisicas-y-morales/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/que-es-el-regimen-resico-y-por-que-es-ideal-para-ti/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/perspectivas-economicas-2025/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/la-importancia-de-elaborar-un-presupuesto-anual/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/consejos-para-un-buen-cierre-contable-y-fiscal-personas-fisicas-y-morales/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/implicaciones-fiscales-de-la-liquidacion-de-una-sociedad-en-mexico/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/deducciones-personales-en-el-sat-para-personas-fisica/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/la-ia-en-contabilidad/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/ptu-que-es-beneficios-y-sanciones-si-no-la-pagas/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/se-modifica-la-ley-de-amparos-fiscales/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/el-sistema-fiscal-ayuda-a-tu-empresa/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/perspectivas/archivo/el-nuevo-mundo-de-las-finanzas-contables/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/aviso-de-privacidad/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 0,
+      "enabled": true
+    },
+    {
+      "path": "/politica-de-cookies/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 0,
+      "enabled": true
+    },
+    {
+      "path": "/trabajo/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 0,
+      "enabled": true
+    },
+    {
+      "path": "/en/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/lp/accounting/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/lp/tax-advisory/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/lp/audit/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/services/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/services/accounting-monterrey/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/services/tax-advisory-monterrey/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/services/audit-monterrey/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/services/business-consulting-monterrey/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/services/administrative-services-monterrey/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/about/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/team/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/contact/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/prepare-business-accounting/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/business-tax-decisions/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/prepare-financial-audit/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/business-budget/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/business-administration/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/prepare-accounting-close/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/cancelacion-de-cfdi-en-2025-reglas-plazos-y-consejos-para-evitar-sanciones/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/declaracion-anual-de-personas-fisicas-todo-lo-que-necesitas-saber/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/declaracion-anual-de-personas-morales-todo-lo-que-necesitas-saber/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/declaracion-anual-de-isr-importancia-obligaciones-y-plazos-para-personas-fisicas-y-morales/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/que-es-el-regimen-resico-y-por-que-es-ideal-para-ti/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/perspectivas-economicas-2025/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/la-importancia-de-elaborar-un-presupuesto-anual/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/consejos-para-un-buen-cierre-contable-y-fiscal-personas-fisicas-y-morales/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/implicaciones-fiscales-de-la-liquidacion-de-una-sociedad-en-mexico/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/deducciones-personales-en-el-sat-para-personas-fisica/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/la-ia-en-contabilidad/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/ptu-que-es-beneficios-y-sanciones-si-no-la-pagas/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/there-will-be-no-tax-reform-in-mexico-sat-will-go-after-large-taxpayers/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/buenrostro-foresees-tax-reform-by-september/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/insights/archive/how-did-outsourcing-2021-end-up-in-mexico/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 4,
+      "enabled": true
+    },
+    {
+      "path": "/en/privacy-notice/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 0,
+      "enabled": true
+    },
+    {
+      "path": "/en/cookie-policy/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 0,
+      "enabled": true
+    },
+    {
+      "path": "/en/careers/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "main": true,
+      "formFields": 0,
+      "enabled": true
+    }
+  ],
+  "errors": [],
+  "jsErrors": [],
+  "a11y": [
+    {
+      "path": "/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/lp/contabilidad/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/lp/asesoria-fiscal/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/lp/auditoria/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/servicios/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/servicios/contabilidad-monterrey/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/servicios/asesoria-fiscal-monterrey/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/servicios/auditoria-monterrey/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/servicios/consultoria-negocios-monterrey/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/servicios/servicios-administrativos-monterrey/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/nosotros/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/equipo/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/contacto/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/perspectivas/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/perspectivas/preparar-contabilidad-empresa/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/perspectivas/decision-fiscal-empresa/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/perspectivas/preparar-auditoria-financiera/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/perspectivas/presupuesto-empresarial/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/perspectivas/orden-administrativo-empresa/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/perspectivas/preparar-cierre-contable/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/perspectivas/archivo/cancelacion-de-cfdi-en-2025-reglas-plazos-y-consejos-para-evitar-sanciones/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/perspectivas/archivo/declaracion-anual-de-personas-fisicas-todo-lo-que-necesitas-saber/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/perspectivas/archivo/declaracion-anual-de-personas-morales-todo-lo-que-necesitas-saber/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/perspectivas/archivo/declaracion-anual-de-isr-importancia-obligaciones-y-plazos-para-personas-fisicas-y-morales/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/perspectivas/archivo/que-es-el-regimen-resico-y-por-que-es-ideal-para-ti/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/perspectivas/archivo/perspectivas-economicas-2025/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/perspectivas/archivo/la-importancia-de-elaborar-un-presupuesto-anual/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/perspectivas/archivo/consejos-para-un-buen-cierre-contable-y-fiscal-personas-fisicas-y-morales/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/perspectivas/archivo/implicaciones-fiscales-de-la-liquidacion-de-una-sociedad-en-mexico/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/perspectivas/archivo/deducciones-personales-en-el-sat-para-personas-fisica/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/perspectivas/archivo/la-ia-en-contabilidad/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/perspectivas/archivo/ptu-que-es-beneficios-y-sanciones-si-no-la-pagas/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/perspectivas/archivo/se-modifica-la-ley-de-amparos-fiscales/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/perspectivas/archivo/el-sistema-fiscal-ayuda-a-tu-empresa/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/perspectivas/archivo/el-nuevo-mundo-de-las-finanzas-contables/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/aviso-de-privacidad/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/politica-de-cookies/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/trabajo/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/en/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/en/lp/accounting/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/en/lp/tax-advisory/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/en/lp/audit/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/en/services/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/en/services/accounting-monterrey/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/en/services/tax-advisory-monterrey/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/en/services/audit-monterrey/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/en/services/business-consulting-monterrey/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/en/services/administrative-services-monterrey/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/en/about/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/en/team/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/en/contact/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/en/insights/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/en/insights/prepare-business-accounting/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/en/insights/business-tax-decisions/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/en/insights/prepare-financial-audit/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/en/insights/business-budget/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/en/insights/business-administration/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/en/insights/prepare-accounting-close/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/en/insights/archive/cancelacion-de-cfdi-en-2025-reglas-plazos-y-consejos-para-evitar-sanciones/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/en/insights/archive/declaracion-anual-de-personas-fisicas-todo-lo-que-necesitas-saber/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/en/insights/archive/declaracion-anual-de-personas-morales-todo-lo-que-necesitas-saber/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/en/insights/archive/declaracion-anual-de-isr-importancia-obligaciones-y-plazos-para-personas-fisicas-y-morales/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/en/insights/archive/que-es-el-regimen-resico-y-por-que-es-ideal-para-ti/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/en/insights/archive/perspectivas-economicas-2025/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/en/insights/archive/la-importancia-de-elaborar-un-presupuesto-anual/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/en/insights/archive/consejos-para-un-buen-cierre-contable-y-fiscal-personas-fisicas-y-morales/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/en/insights/archive/implicaciones-fiscales-de-la-liquidacion-de-una-sociedad-en-mexico/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/en/insights/archive/deducciones-personales-en-el-sat-para-personas-fisica/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/en/insights/archive/la-ia-en-contabilidad/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/en/insights/archive/ptu-que-es-beneficios-y-sanciones-si-no-la-pagas/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/en/insights/archive/there-will-be-no-tax-reform-in-mexico-sat-will-go-after-large-taxpayers/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/en/insights/archive/buenrostro-foresees-tax-reform-by-september/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/en/insights/archive/how-did-outsourcing-2021-end-up-in-mexico/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/en/privacy-notice/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/en/cookie-policy/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/en/careers/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "path": "/servicios/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "path": "/servicios/auditoria-monterrey/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "path": "/nosotros/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "path": "/equipo/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "path": "/contacto/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "path": "/perspectivas/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "path": "/perspectivas/preparar-auditoria-financiera/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "path": "/lp/contabilidad/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "path": "/en/services/accounting-monterrey/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "path": "/en/contact/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "path": "/aviso-de-privacidad/",
+      "width": 1440,
+      "violations": []
+    }
+  ],
+  "flows": {
+    "menuOpened": true,
+    "menuClosed": true,
+    "faqOpened": true,
+    "invalidPhone": true,
+    "noAutomaticMap": true
+  }
+}

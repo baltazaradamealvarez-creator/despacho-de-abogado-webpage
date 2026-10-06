@@ -29,3 +29,15 @@ INP de campo no se midió; TBT no lo reemplaza. Core Web Vitals finales requiere
 Publicar las páginas interiores y los documentos legales con destinos 200; confirmar pin, horarios/correo y permisos de fotos; aprobar alcances y valores; validar perfiles/certificaciones si se usan; definir recepción/CRM y agenda con un socio; instalar cuentas/tags/CMP sin PII y comprobar entrega real; aplicar redirecciones solo cuando existan equivalentes. Sitemap y robots incluidos son plantillas, no se aplicaron al dominio.
 
 No se modificó el WordPress público, no se activaron campañas, no se publicaron cambios en GitHub ni se enviaron mensajes.
+
+## Ampliación del sitio completo
+
+La ampliación implementa 76 rutas más 404. `route-manifest.json` enumera cada página y su equivalente de idioma. Se comprobaron enlaces internos, anchors, una etiqueta H1 por página, longitud de metas, JSON-LD válido y concordancia entre FAQ visibles y estructuradas. Sin enlaces rotos ni navegación al WordPress anterior.
+
+Se revisaron las 76 rutas en Chromium a 320, 390, 768, 1024 y 1440 px: 380 vistas sin desbordamiento horizontal ni errores JavaScript. Axe se ejecutó en las 76 páginas a 390 px y doce plantillas representativas a 1440 px: 88 configuraciones sin infracciones detectadas de WCAG A/AA y buenas prácticas. Estas comprobaciones automáticas no constituyen una certificación de accesibilidad.
+
+Los flujos de menú móvil, Escape, cambio de idioma, navegación local, apertura del archivo, FAQ y validación de teléfono pasaron. La solicitud válida de consulta se comprobó interceptando la apertura de WhatsApp, sin enviar mensajes. No se emite una conversión de cita confirmada por un simple clic.
+
+Lighthouse móvil local en `/servicios/auditoria-monterrey/`: rendimiento 99, accesibilidad 100, SEO 100; LCP 2.0 s, CLS 0.007 y bloqueo total 0 ms. El rendimiento real en Render y los Core Web Vitals de campo dependen del despliegue y del tráfico; INP no se certifica con esta prueba.
+
+Evidencia: `paginas-completas-estatico.json`, `paginas-completas-browser.json`, `paginas-completas-flujos.json`, `lighthouse-servicio-completo.json`. `render.yaml` se validó contra el esquema oficial e incluye redirecciones para las antiguas rutas de blog, About y artículos. Render sigue publicando exclusivamente `site/`.

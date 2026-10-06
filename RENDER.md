@@ -35,12 +35,14 @@ Leave the start command unset. This is a multipage static site: do **not** add a
 
 The historical repo landing `/lp/contabilidad-empresas/` redirects to `/lp/contabilidad/` when using the Blueprint.
 
-## Current scope
+## Complete multipage website
 
-This delivery implements the home and three advertising landing pages in both languages. The complete copy for interior pages is in `entregables/04-paginas.md`; their HTML templates are not implemented. Some navigation, privacy and service links intentionally target the proposed production URLs at `gonzalezarmendariz.com`. Publish those pages and approved legal documents before a production launch. Canonical, hreflang and social image URLs retain the intended production domain; adding a custom domain to Render and changing DNS are separate steps.
+All 76 routes are committed as static HTML, including the service overview and five detail pages, about, team, contact, insights, guides, publication archive, legal information, careers and advertising landings, in Spanish and English. `site/route-manifest.json` lists each route and its reciprocal language link. Navigation uses local URLs so visitors stay on the Render deployment. A custom `404.html` handles missing pages.
 
-The four-field form prepares a WhatsApp request. The visitor must send the message, and the firm confirms the appointment. There is no form backend or CRM integration. Analytics and advertising tags are inactive. The optional consent UI and remaining legal/operational items are documented in the report and launch checklist.
+The Blueprint redirects `/blog/`, `/en/blog-2/`, `/en/about-us/` and the original 18 article URLs to their redesigned equivalents. Do not add a catch-all rewrite. `sitemap.xml` includes the implemented indexable pages; advertising landings, historic articles and provisional legal information are excluded. Canonical, hreflang and social images target the intended production domain, `https://gonzalezarmendariz.com`. DNS and a custom domain remain separate from Git deployment.
 
-Only `site/` is published by Render. Reports, raw audit sources, schemas and the archived initial draft remain repository files. The earlier Apache `.htaccess` lives in the archive; Render does not use Apache configuration. The previous speculative sitemap is archived rather than published, and the proposed sitemap in `deployment-templates/` must be filtered to pages that are actually implemented and indexable before production use.
+The four-field form prepares a WhatsApp request. Visitors must send the message, and the firm confirms the appointment. No form backend or CRM is configured. Analytics and advertising tags remain inactive. Privacy information explains the current data flow; the approved full notice and controller details still require the firm’s confirmation.
+
+Only `site/` is published. To regenerate locally, install `requirements-build.txt` and run `python3 build_site.py`. Generated HTML is committed, so the Render build command stays `true`. CSS and JavaScript updates also deploy from commits.
 
 Official references: [Render Static Sites](https://render.com/docs/static-sites) and [Blueprint YAML Reference](https://render.com/docs/blueprint-spec).

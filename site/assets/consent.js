@@ -30,7 +30,7 @@
   }
   const open=()=>{checks.analytics.checked=window.gaConsent.analytics;checks.advertising.checked=window.gaConsent.advertising;dialog.showModal();};
   actions.append(makeButton(text.accept,()=>apply({analytics:true,advertising:true},true)),makeButton(text.reject,()=>apply({analytics:false,advertising:false},true)),makeButton(text.configure,open));
-  const policy=document.createElement('a');policy.href='https://gonzalezarmendariz.com'+(en?'/en/cookie-policy/':'/politica-de-cookies/');policy.textContent=text.policy;actions.append(policy);
+  const policy=document.createElement('a');policy.href=(en?'/en/cookie-policy/':'/politica-de-cookies/');policy.textContent=text.policy;actions.append(policy);
   dialog.append(makeButton(text.save,()=>{apply({analytics:checks.analytics.checked,advertising:checks.advertising.checked},true);dialog.close();}),makeButton(text.close,()=>dialog.close()));
   document.body.append(banner,dialog);
   const reserveBanner=()=>document.documentElement.style.setProperty('--consent-height',banner.offsetHeight+'px');

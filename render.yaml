@@ -1,23 +1,94 @@
-# Render Blueprint: serves the generated HTML directly, with no app server.
 services:
-  - type: web
-    name: gonzalez-armendariz
-    runtime: static
-    branch: claude/rediseno-gonzalez-armendariz
-    buildCommand: "true"
-    staticPublishPath: ./site
-    autoDeployTrigger: commit
-    headers:
-      - path: /*
-        name: X-Content-Type-Options
-        value: nosniff
-      - path: /*
-        name: Referrer-Policy
-        value: strict-origin-when-cross-origin
-      - path: /*
-        name: X-Frame-Options
-        value: SAMEORIGIN
-    routes:
-      - type: redirect
-        source: /lp/contabilidad-empresas/
-        destination: /lp/contabilidad/
+- type: web
+  name: gonzalez-armendariz
+  runtime: static
+  branch: claude/rediseno-gonzalez-armendariz
+  buildCommand: 'true'
+  staticPublishPath: ./site
+  autoDeployTrigger: commit
+  headers:
+  - path: /*
+    name: X-Content-Type-Options
+    value: nosniff
+  - path: /*
+    name: Referrer-Policy
+    value: strict-origin-when-cross-origin
+  - path: /*
+    name: X-Frame-Options
+    value: SAMEORIGIN
+  routes:
+  - type: redirect
+    source: /lp/contabilidad-empresas/
+    destination: /lp/contabilidad/
+  - type: redirect
+    source: /blog/
+    destination: /perspectivas/
+  - type: redirect
+    source: /en/blog-2/
+    destination: /en/insights/
+  - type: redirect
+    source: /en/about-us/
+    destination: /en/about/
+  - type: redirect
+    source: /blog
+    destination: /perspectivas/
+  - type: redirect
+    source: /en/blog-2
+    destination: /en/insights/
+  - type: redirect
+    source: /en/about-us
+    destination: /en/about/
+  - type: redirect
+    source: /cancelacion-de-cfdi-en-2025-reglas-plazos-y-consejos-para-evitar-sanciones/
+    destination: /perspectivas/archivo/cancelacion-de-cfdi-en-2025-reglas-plazos-y-consejos-para-evitar-sanciones/
+  - type: redirect
+    source: /declaracion-anual-de-personas-fisicas-todo-lo-que-necesitas-saber/
+    destination: /perspectivas/archivo/declaracion-anual-de-personas-fisicas-todo-lo-que-necesitas-saber/
+  - type: redirect
+    source: /declaracion-anual-de-personas-morales-todo-lo-que-necesitas-saber/
+    destination: /perspectivas/archivo/declaracion-anual-de-personas-morales-todo-lo-que-necesitas-saber/
+  - type: redirect
+    source: /declaracion-anual-de-isr-importancia-obligaciones-y-plazos-para-personas-fisicas-y-morales/
+    destination: /perspectivas/archivo/declaracion-anual-de-isr-importancia-obligaciones-y-plazos-para-personas-fisicas-y-morales/
+  - type: redirect
+    source: /que-es-el-regimen-resico-y-por-que-es-ideal-para-ti/
+    destination: /perspectivas/archivo/que-es-el-regimen-resico-y-por-que-es-ideal-para-ti/
+  - type: redirect
+    source: /perspectivas-economicas-2025/
+    destination: /perspectivas/archivo/perspectivas-economicas-2025/
+  - type: redirect
+    source: /la-importancia-de-elaborar-un-presupuesto-anual/
+    destination: /perspectivas/archivo/la-importancia-de-elaborar-un-presupuesto-anual/
+  - type: redirect
+    source: /consejos-para-un-buen-cierre-contable-y-fiscal-personas-fisicas-y-morales/
+    destination: /perspectivas/archivo/consejos-para-un-buen-cierre-contable-y-fiscal-personas-fisicas-y-morales/
+  - type: redirect
+    source: /implicaciones-fiscales-de-la-liquidacion-de-una-sociedad-en-mexico/
+    destination: /perspectivas/archivo/implicaciones-fiscales-de-la-liquidacion-de-una-sociedad-en-mexico/
+  - type: redirect
+    source: /deducciones-personales-en-el-sat-para-personas-fisica/
+    destination: /perspectivas/archivo/deducciones-personales-en-el-sat-para-personas-fisica/
+  - type: redirect
+    source: /la-ia-en-contabilidad/
+    destination: /perspectivas/archivo/la-ia-en-contabilidad/
+  - type: redirect
+    source: /ptu-que-es-beneficios-y-sanciones-si-no-la-pagas/
+    destination: /perspectivas/archivo/ptu-que-es-beneficios-y-sanciones-si-no-la-pagas/
+  - type: redirect
+    source: /en/there-will-be-no-tax-reform-in-mexico-sat-will-go-after-large-taxpayers/
+    destination: /en/insights/archive/there-will-be-no-tax-reform-in-mexico-sat-will-go-after-large-taxpayers/
+  - type: redirect
+    source: /en/buenrostro-foresees-tax-reform-by-september/
+    destination: /en/insights/archive/buenrostro-foresees-tax-reform-by-september/
+  - type: redirect
+    source: /en/how-did-outsourcing-2021-end-up-in-mexico/
+    destination: /en/insights/archive/how-did-outsourcing-2021-end-up-in-mexico/
+  - type: redirect
+    source: /se-modifica-la-ley-de-amparos-fiscales/
+    destination: /perspectivas/archivo/se-modifica-la-ley-de-amparos-fiscales/
+  - type: redirect
+    source: /el-sistema-fiscal-ayuda-a-tu-empresa/
+    destination: /perspectivas/archivo/el-sistema-fiscal-ayuda-a-tu-empresa/
+  - type: redirect
+    source: /el-nuevo-mundo-de-las-finanzas-contables/
+    destination: /perspectivas/archivo/el-nuevo-mundo-de-las-finanzas-contables/

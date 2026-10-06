@@ -1,0 +1,10 @@
+{
+  "destinationCorrect": true,
+  "fallbackVisible": true,
+  "noConfirmedLead": true,
+  "englishContact": true,
+  "localServices": true,
+  "closedAfterNavigation": true,
+  "archiveOpens": true,
+  "noExternalMessageSent": true
+}

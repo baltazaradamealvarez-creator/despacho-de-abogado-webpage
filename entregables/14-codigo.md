@@ -21,7 +21,9 @@ Se entrega código fuente real en `site/`, sin WordPress, WPBakery, dependencias
 | Retrato real, logo e icono existentes | `fundador.webp`, `logo.png`, `favicon.png` |
 | Imágenes sociales de marca ES/EN | `social-es.png`, `social-en.png` |
 
-El encargo pedía HTML del home y una landing; se incluyen las tres landings prioritarias, con sus equivalentes ingleses, utilizando las mismas dos plantillas. El copy completo de las páginas interiores está en04; sus plantillas HTML no se presentan como implementadas. Los enlaces a servicios, equipo, Perspectivas y textos legales son las URLs finales propuestas: completar la migración y publicar esas rutas antes del lanzamiento. Canonical, hreflang y URLs sociales ya señalan al dominio de producción; no señalan a un entorno demo.
+La ampliación implementa el sitio completo: catálogo y cinco servicios, Nosotros, Equipo, Contacto, Perspectivas, seis guías, archivo histórico, tres landings y páginas de soporte, en ambos idiomas. Son 76 rutas más una página 404. El inventario está en `site/route-manifest.json`. La navegación es local y funciona en Render. Las doce entradas históricas sin traducción original tienen resúmenes ingleses identificados como tales; las tres traducciones originales se preservan completas.
+
+El archivo histórico incluye fechas originales y advertencias de desactualización. Las páginas de privacidad y cookies explican el funcionamiento actual y conservan explícita la necesidad de un aviso integral aprobado. No se inventaron vacantes ni perfiles. `sitemap.xml` contiene únicamente las 36 rutas indexables actuales; landings, archivo y páginas legales provisionales quedan excluidos.
 
 ## Funcionamiento y límites concretos
 

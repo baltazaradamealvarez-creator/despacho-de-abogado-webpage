@@ -16,13 +16,15 @@ El paquete incluye copy ES/EN de inicio, cinco servicios, Nosotros, Equipo, Cont
 
 ## Código y alcance
 
-Hay dos homes y seis landings HTML, CSS y JS sin dependencias de front. Para verlos:
+El sitio completo contiene **76 páginas** en español e inglés y una página 404: inicio, catálogo, cinco servicios, Nosotros, Equipo, Contacto, Perspectivas, seis guías, archivo de publicaciones, tres landings, privacidad, cookies y oportunidades profesionales. Todos los enlaces de navegación permanecen en el sitio desplegado. `site/route-manifest.json` contiene el inventario y las equivalencias de idioma.
 
 ```bash
-python -m http.server 8000 --directory site
+python3 -m http.server 8000 --directory site
 ```
 
-Abrir http://localhost:8000/ y http://localhost:8000/lp/contabilidad/. Los enlaces ES/EN de esas plantillas funcionan dentro del paquete. Los enlaces a páginas interiores apuntan a su futura ruta de producción: sus textos están redactados, pero el encargo de código incluía solo home y landing. La publicación del código en GitHub no reemplaza el WordPress público ni activa campañas o etiquetas.
+Para regenerar las páginas: `python3 -m pip install -r requirements-build.txt` y `python3 build_site.py`. Render sirve el HTML ya generado y no necesita instalar dependencias. Los cambios en la rama configurada disparan el despliegue automático.
+
+Las guías nuevas están en `entregables/guias-web.json`. El archivo conserva las publicaciones del WordPress con fecha original y advertencia de posible desactualización. Las doce publicaciones que no tenían versión inglesa cuentan con un resumen inglés identificado como tal y enlace al original. Las tres traducciones originales se conservan completas. El archivo usa `noindex,follow` y queda fuera del sitemap.
 
 El formulario entrega los datos a una conversación de WhatsApp que el usuario debe enviar, sin afirmar una cita confirmada. No hay receptor de formularios/CRM configurado. Las etiquetas están apagadas y el banner se puede probar mediante la configuración documentada en 14. La validación técnica no envió mensajes reales.
 
@@ -32,4 +34,10 @@ El formulario entrega los datos a una conversación de WhatsApp que el usuario d
 
 [SUPUESTO] Año editorial 2027; datos/cifras del briefing vigentes; solución provisional de contacto por WhatsApp; dominio HTTPS sin www propuesto sujeto a Search Console. No hay cifras de volumen de keywords, presupuesto ni resultados de campaña inventados. Las estrategias no garantizan posiciones, ahorro fiscal ni ausencia de auditorías SAT.
 
-Los objetivos de rendimiento y los resultados locales se distinguen en validacion/RESUMEN.md. Antes de producción aplicar la checklist 15, validar aviso de privacidad y publicar todas las rutas finales.
+Los objetivos de rendimiento y los resultados locales se distinguen en validacion/RESUMEN.md. Antes de producción aplicar la checklist 15, validar el aviso integral de privacidad y confirmar los alcances comerciales.
+
+## Verificación del sitio completo
+
+- `python3 validate_static.py`: rutas, enlaces, anchors, H1, metas y equivalencias de idioma.
+- Opcional: `npm install`, iniciar el servidor local en el puerto 8775 y ejecutar `npm run validate:browser` / `npm run validate:flows`. Requieren Chromium; `CHROME_PATH` permite indicar otro ejecutable. `GA_TEST_URL` permite cambiar la URL local.
+- Evidencia actual: `validacion/paginas-completas-*.json` y `validacion/lighthouse-servicio-completo.json`. Las capturas locales no forman parte del despliegue.

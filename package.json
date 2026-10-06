@@ -1,0 +1,14 @@
+{
+  "name": "gonzalez-armendariz-static-site",
+  "private": true,
+  "description": "Optional local quality checks; not needed by Render",
+  "scripts": {
+    "validate:static": "python3 validate_static.py",
+    "validate:browser": "node validate_all.cjs",
+    "validate:flows": "node validate_flows.cjs"
+  },
+  "devDependencies": {
+    "axe-core": "4.14.0",
+    "playwright": "1.62.1"
+  }
+}

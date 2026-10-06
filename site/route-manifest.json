@@ -1,0 +1,458 @@
+[
+  {
+    "path": "/",
+    "language": "es",
+    "alternate": "/en/",
+    "type": "home"
+  },
+  {
+    "path": "/lp/contabilidad/",
+    "language": "es",
+    "alternate": "/en/lp/accounting/",
+    "type": "landing"
+  },
+  {
+    "path": "/lp/asesoria-fiscal/",
+    "language": "es",
+    "alternate": "/en/lp/tax-advisory/",
+    "type": "landing"
+  },
+  {
+    "path": "/lp/auditoria/",
+    "language": "es",
+    "alternate": "/en/lp/audit/",
+    "type": "landing"
+  },
+  {
+    "path": "/servicios/",
+    "language": "es",
+    "alternate": "/en/services/",
+    "type": "services"
+  },
+  {
+    "path": "/servicios/contabilidad-monterrey/",
+    "language": "es",
+    "alternate": "/en/services/accounting-monterrey/",
+    "type": "service"
+  },
+  {
+    "path": "/servicios/asesoria-fiscal-monterrey/",
+    "language": "es",
+    "alternate": "/en/services/tax-advisory-monterrey/",
+    "type": "service"
+  },
+  {
+    "path": "/servicios/auditoria-monterrey/",
+    "language": "es",
+    "alternate": "/en/services/audit-monterrey/",
+    "type": "service"
+  },
+  {
+    "path": "/servicios/consultoria-negocios-monterrey/",
+    "language": "es",
+    "alternate": "/en/services/business-consulting-monterrey/",
+    "type": "service"
+  },
+  {
+    "path": "/servicios/servicios-administrativos-monterrey/",
+    "language": "es",
+    "alternate": "/en/services/administrative-services-monterrey/",
+    "type": "service"
+  },
+  {
+    "path": "/nosotros/",
+    "language": "es",
+    "alternate": "/en/about/",
+    "type": "about"
+  },
+  {
+    "path": "/equipo/",
+    "language": "es",
+    "alternate": "/en/team/",
+    "type": "team"
+  },
+  {
+    "path": "/contacto/",
+    "language": "es",
+    "alternate": "/en/contact/",
+    "type": "contact"
+  },
+  {
+    "path": "/perspectivas/",
+    "language": "es",
+    "alternate": "/en/insights/",
+    "type": "insights"
+  },
+  {
+    "path": "/perspectivas/preparar-contabilidad-empresa/",
+    "language": "es",
+    "alternate": "/en/insights/prepare-business-accounting/",
+    "type": "article"
+  },
+  {
+    "path": "/perspectivas/decision-fiscal-empresa/",
+    "language": "es",
+    "alternate": "/en/insights/business-tax-decisions/",
+    "type": "article"
+  },
+  {
+    "path": "/perspectivas/preparar-auditoria-financiera/",
+    "language": "es",
+    "alternate": "/en/insights/prepare-financial-audit/",
+    "type": "article"
+  },
+  {
+    "path": "/perspectivas/presupuesto-empresarial/",
+    "language": "es",
+    "alternate": "/en/insights/business-budget/",
+    "type": "article"
+  },
+  {
+    "path": "/perspectivas/orden-administrativo-empresa/",
+    "language": "es",
+    "alternate": "/en/insights/business-administration/",
+    "type": "article"
+  },
+  {
+    "path": "/perspectivas/preparar-cierre-contable/",
+    "language": "es",
+    "alternate": "/en/insights/prepare-accounting-close/",
+    "type": "article"
+  },
+  {
+    "path": "/perspectivas/archivo/cancelacion-de-cfdi-en-2025-reglas-plazos-y-consejos-para-evitar-sanciones/",
+    "language": "es",
+    "alternate": "/en/insights/archive/cancelacion-de-cfdi-en-2025-reglas-plazos-y-consejos-para-evitar-sanciones/",
+    "type": "archive"
+  },
+  {
+    "path": "/perspectivas/archivo/declaracion-anual-de-personas-fisicas-todo-lo-que-necesitas-saber/",
+    "language": "es",
+    "alternate": "/en/insights/archive/declaracion-anual-de-personas-fisicas-todo-lo-que-necesitas-saber/",
+    "type": "archive"
+  },
+  {
+    "path": "/perspectivas/archivo/declaracion-anual-de-personas-morales-todo-lo-que-necesitas-saber/",
+    "language": "es",
+    "alternate": "/en/insights/archive/declaracion-anual-de-personas-morales-todo-lo-que-necesitas-saber/",
+    "type": "archive"
+  },
+  {
+    "path": "/perspectivas/archivo/declaracion-anual-de-isr-importancia-obligaciones-y-plazos-para-personas-fisicas-y-morales/",
+    "language": "es",
+    "alternate": "/en/insights/archive/declaracion-anual-de-isr-importancia-obligaciones-y-plazos-para-personas-fisicas-y-morales/",
+    "type": "archive"
+  },
+  {
+    "path": "/perspectivas/archivo/que-es-el-regimen-resico-y-por-que-es-ideal-para-ti/",
+    "language": "es",
+    "alternate": "/en/insights/archive/que-es-el-regimen-resico-y-por-que-es-ideal-para-ti/",
+    "type": "archive"
+  },
+  {
+    "path": "/perspectivas/archivo/perspectivas-economicas-2025/",
+    "language": "es",
+    "alternate": "/en/insights/archive/perspectivas-economicas-2025/",
+    "type": "archive"
+  },
+  {
+    "path": "/perspectivas/archivo/la-importancia-de-elaborar-un-presupuesto-anual/",
+    "language": "es",
+    "alternate": "/en/insights/archive/la-importancia-de-elaborar-un-presupuesto-anual/",
+    "type": "archive"
+  },
+  {
+    "path": "/perspectivas/archivo/consejos-para-un-buen-cierre-contable-y-fiscal-personas-fisicas-y-morales/",
+    "language": "es",
+    "alternate": "/en/insights/archive/consejos-para-un-buen-cierre-contable-y-fiscal-personas-fisicas-y-morales/",
+    "type": "archive"
+  },
+  {
+    "path": "/perspectivas/archivo/implicaciones-fiscales-de-la-liquidacion-de-una-sociedad-en-mexico/",
+    "language": "es",
+    "alternate": "/en/insights/archive/implicaciones-fiscales-de-la-liquidacion-de-una-sociedad-en-mexico/",
+    "type": "archive"
+  },
+  {
+    "path": "/perspectivas/archivo/deducciones-personales-en-el-sat-para-personas-fisica/",
+    "language": "es",
+    "alternate": "/en/insights/archive/deducciones-personales-en-el-sat-para-personas-fisica/",
+    "type": "archive"
+  },
+  {
+    "path": "/perspectivas/archivo/la-ia-en-contabilidad/",
+    "language": "es",
+    "alternate": "/en/insights/archive/la-ia-en-contabilidad/",
+    "type": "archive"
+  },
+  {
+    "path": "/perspectivas/archivo/ptu-que-es-beneficios-y-sanciones-si-no-la-pagas/",
+    "language": "es",
+    "alternate": "/en/insights/archive/ptu-que-es-beneficios-y-sanciones-si-no-la-pagas/",
+    "type": "archive"
+  },
+  {
+    "path": "/perspectivas/archivo/se-modifica-la-ley-de-amparos-fiscales/",
+    "language": "es",
+    "alternate": "/en/insights/archive/there-will-be-no-tax-reform-in-mexico-sat-will-go-after-large-taxpayers/",
+    "type": "archive"
+  },
+  {
+    "path": "/perspectivas/archivo/el-sistema-fiscal-ayuda-a-tu-empresa/",
+    "language": "es",
+    "alternate": "/en/insights/archive/buenrostro-foresees-tax-reform-by-september/",
+    "type": "archive"
+  },
+  {
+    "path": "/perspectivas/archivo/el-nuevo-mundo-de-las-finanzas-contables/",
+    "language": "es",
+    "alternate": "/en/insights/archive/how-did-outsourcing-2021-end-up-in-mexico/",
+    "type": "archive"
+  },
+  {
+    "path": "/aviso-de-privacidad/",
+    "language": "es",
+    "alternate": "/en/privacy-notice/",
+    "type": "legal"
+  },
+  {
+    "path": "/politica-de-cookies/",
+    "language": "es",
+    "alternate": "/en/cookie-policy/",
+    "type": "legal"
+  },
+  {
+    "path": "/trabajo/",
+    "language": "es",
+    "alternate": "/en/careers/",
+    "type": "careers"
+  },
+  {
+    "path": "/en/",
+    "language": "en",
+    "alternate": "/",
+    "type": "home"
+  },
+  {
+    "path": "/en/lp/accounting/",
+    "language": "en",
+    "alternate": "/lp/contabilidad/",
+    "type": "landing"
+  },
+  {
+    "path": "/en/lp/tax-advisory/",
+    "language": "en",
+    "alternate": "/lp/asesoria-fiscal/",
+    "type": "landing"
+  },
+  {
+    "path": "/en/lp/audit/",
+    "language": "en",
+    "alternate": "/lp/auditoria/",
+    "type": "landing"
+  },
+  {
+    "path": "/en/services/",
+    "language": "en",
+    "alternate": "/servicios/",
+    "type": "services"
+  },
+  {
+    "path": "/en/services/accounting-monterrey/",
+    "language": "en",
+    "alternate": "/servicios/contabilidad-monterrey/",
+    "type": "service"
+  },
+  {
+    "path": "/en/services/tax-advisory-monterrey/",
+    "language": "en",
+    "alternate": "/servicios/asesoria-fiscal-monterrey/",
+    "type": "service"
+  },
+  {
+    "path": "/en/services/audit-monterrey/",
+    "language": "en",
+    "alternate": "/servicios/auditoria-monterrey/",
+    "type": "service"
+  },
+  {
+    "path": "/en/services/business-consulting-monterrey/",
+    "language": "en",
+    "alternate": "/servicios/consultoria-negocios-monterrey/",
+    "type": "service"
+  },
+  {
+    "path": "/en/services/administrative-services-monterrey/",
+    "language": "en",
+    "alternate": "/servicios/servicios-administrativos-monterrey/",
+    "type": "service"
+  },
+  {
+    "path": "/en/about/",
+    "language": "en",
+    "alternate": "/nosotros/",
+    "type": "about"
+  },
+  {
+    "path": "/en/team/",
+    "language": "en",
+    "alternate": "/equipo/",
+    "type": "team"
+  },
+  {
+    "path": "/en/contact/",
+    "language": "en",
+    "alternate": "/contacto/",
+    "type": "contact"
+  },
+  {
+    "path": "/en/insights/",
+    "language": "en",
+    "alternate": "/perspectivas/",
+    "type": "insights"
+  },
+  {
+    "path": "/en/insights/prepare-business-accounting/",
+    "language": "en",
+    "alternate": "/perspectivas/preparar-contabilidad-empresa/",
+    "type": "article"
+  },
+  {
+    "path": "/en/insights/business-tax-decisions/",
+    "language": "en",
+    "alternate": "/perspectivas/decision-fiscal-empresa/",
+    "type": "article"
+  },
+  {
+    "path": "/en/insights/prepare-financial-audit/",
+    "language": "en",
+    "alternate": "/perspectivas/preparar-auditoria-financiera/",
+    "type": "article"
+  },
+  {
+    "path": "/en/insights/business-budget/",
+    "language": "en",
+    "alternate": "/perspectivas/presupuesto-empresarial/",
+    "type": "article"
+  },
+  {
+    "path": "/en/insights/business-administration/",
+    "language": "en",
+    "alternate": "/perspectivas/orden-administrativo-empresa/",
+    "type": "article"
+  },
+  {
+    "path": "/en/insights/prepare-accounting-close/",
+    "language": "en",
+    "alternate": "/perspectivas/preparar-cierre-contable/",
+    "type": "article"
+  },
+  {
+    "path": "/en/insights/archive/cancelacion-de-cfdi-en-2025-reglas-plazos-y-consejos-para-evitar-sanciones/",
+    "language": "en",
+    "alternate": "/perspectivas/archivo/cancelacion-de-cfdi-en-2025-reglas-plazos-y-consejos-para-evitar-sanciones/",
+    "type": "archive"
+  },
+  {
+    "path": "/en/insights/archive/declaracion-anual-de-personas-fisicas-todo-lo-que-necesitas-saber/",
+    "language": "en",
+    "alternate": "/perspectivas/archivo/declaracion-anual-de-personas-fisicas-todo-lo-que-necesitas-saber/",
+    "type": "archive"
+  },
+  {
+    "path": "/en/insights/archive/declaracion-anual-de-personas-morales-todo-lo-que-necesitas-saber/",
+    "language": "en",
+    "alternate": "/perspectivas/archivo/declaracion-anual-de-personas-morales-todo-lo-que-necesitas-saber/",
+    "type": "archive"
+  },
+  {
+    "path": "/en/insights/archive/declaracion-anual-de-isr-importancia-obligaciones-y-plazos-para-personas-fisicas-y-morales/",
+    "language": "en",
+    "alternate": "/perspectivas/archivo/declaracion-anual-de-isr-importancia-obligaciones-y-plazos-para-personas-fisicas-y-morales/",
+    "type": "archive"
+  },
+  {
+    "path": "/en/insights/archive/que-es-el-regimen-resico-y-por-que-es-ideal-para-ti/",
+    "language": "en",
+    "alternate": "/perspectivas/archivo/que-es-el-regimen-resico-y-por-que-es-ideal-para-ti/",
+    "type": "archive"
+  },
+  {
+    "path": "/en/insights/archive/perspectivas-economicas-2025/",
+    "language": "en",
+    "alternate": "/perspectivas/archivo/perspectivas-economicas-2025/",
+    "type": "archive"
+  },
+  {
+    "path": "/en/insights/archive/la-importancia-de-elaborar-un-presupuesto-anual/",
+    "language": "en",
+    "alternate": "/perspectivas/archivo/la-importancia-de-elaborar-un-presupuesto-anual/",
+    "type": "archive"
+  },
+  {
+    "path": "/en/insights/archive/consejos-para-un-buen-cierre-contable-y-fiscal-personas-fisicas-y-morales/",
+    "language": "en",
+    "alternate": "/perspectivas/archivo/consejos-para-un-buen-cierre-contable-y-fiscal-personas-fisicas-y-morales/",
+    "type": "archive"
+  },
+  {
+    "path": "/en/insights/archive/implicaciones-fiscales-de-la-liquidacion-de-una-sociedad-en-mexico/",
+    "language": "en",
+    "alternate": "/perspectivas/archivo/implicaciones-fiscales-de-la-liquidacion-de-una-sociedad-en-mexico/",
+    "type": "archive"
+  },
+  {
+    "path": "/en/insights/archive/deducciones-personales-en-el-sat-para-personas-fisica/",
+    "language": "en",
+    "alternate": "/perspectivas/archivo/deducciones-personales-en-el-sat-para-personas-fisica/",
+    "type": "archive"
+  },
+  {
+    "path": "/en/insights/archive/la-ia-en-contabilidad/",
+    "language": "en",
+    "alternate": "/perspectivas/archivo/la-ia-en-contabilidad/",
+    "type": "archive"
+  },
+  {
+    "path": "/en/insights/archive/ptu-que-es-beneficios-y-sanciones-si-no-la-pagas/",
+    "language": "en",
+    "alternate": "/perspectivas/archivo/ptu-que-es-beneficios-y-sanciones-si-no-la-pagas/",
+    "type": "archive"
+  },
+  {
+    "path": "/en/insights/archive/there-will-be-no-tax-reform-in-mexico-sat-will-go-after-large-taxpayers/",
+    "language": "en",
+    "alternate": "/perspectivas/archivo/se-modifica-la-ley-de-amparos-fiscales/",
+    "type": "archive"
+  },
+  {
+    "path": "/en/insights/archive/buenrostro-foresees-tax-reform-by-september/",
+    "language": "en",
+    "alternate": "/perspectivas/archivo/el-sistema-fiscal-ayuda-a-tu-empresa/",
+    "type": "archive"
+  },
+  {
+    "path": "/en/insights/archive/how-did-outsourcing-2021-end-up-in-mexico/",
+    "language": "en",
+    "alternate": "/perspectivas/archivo/el-nuevo-mundo-de-las-finanzas-contables/",
+    "type": "archive"
+  },
+  {
+    "path": "/en/privacy-notice/",
+    "language": "en",
+    "alternate": "/aviso-de-privacidad/",
+    "type": "legal"
+  },
+  {
+    "path": "/en/cookie-policy/",
+    "language": "en",
+    "alternate": "/politica-de-cookies/",
+    "type": "legal"
+  },
+  {
+    "path": "/en/careers/",
+    "language": "en",
+    "alternate": "/trabajo/",
+    "type": "careers"
+  }
+]

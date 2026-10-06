@@ -1,0 +1,308 @@
+[
+  {
+    "es": {
+      "slug": "preparar-contabilidad-empresa",
+      "category": "Contabilidad",
+      "h1": "Qué revisar antes de contratar un despacho contable",
+      "answer": "Antes de contratar, acuerde qué información necesita su empresa, quién la entrega y qué responsabilidades tendrá cada parte. Un precio por sí solo no define el alcance.",
+      "sections": [
+        [
+          "Defina qué necesita decidir",
+          "Identifique las cifras que utiliza para revisar ventas, gastos, cuentas por cobrar y compromisos. Explique qué información recibe hoy y qué le falta para decidir."
+        ],
+        [
+          "Revise la información disponible",
+          "Prepare una relación de registros contables, reportes y pendientes. No envíe archivos confidenciales por un formulario público. Acuerde con la firma un canal adecuado para compartirlos."
+        ],
+        [
+          "Compare propuestas con el mismo alcance",
+          "Pregunte qué periodos, reportes y obligaciones se incluyen. Confirme quién prepara los documentos, quién revisa la información y quién autoriza las acciones."
+        ],
+        [
+          "Aclare el seguimiento",
+          "Antes de comenzar, defina entregables y puntos de revisión. Si ya cuenta con equipo interno, acuerde cómo se coordinará con el despacho."
+        ]
+      ]
+    },
+    "en": {
+      "slug": "prepare-business-accounting",
+      "category": "Accounting",
+      "h1": "What to review before hiring an accounting firm",
+      "answer": "Before engaging a firm, agree what information your business needs, who provides it and each party’s responsibilities. Price alone does not define the scope.",
+      "sections": [
+        [
+          "Define the decisions you need to make",
+          "Identify the figures you use to review sales, expenses, receivables and commitments. Explain which information you receive today and what is missing."
+        ],
+        [
+          "Review the available information",
+          "Prepare a list of accounting records, reports and outstanding matters. Do not send confidential files through a public form. Agree an appropriate sharing channel with the firm."
+        ],
+        [
+          "Compare proposals with the same scope",
+          "Ask which periods, reports and obligations are included. Confirm who prepares documents, who reviews information and who authorizes actions."
+        ],
+        [
+          "Clarify follow-up",
+          "Agree deliverables and review points before work begins. If you have an internal team, define how it will coordinate with the accounting firm."
+        ]
+      ]
+    },
+    "service": 0
+  },
+  {
+    "es": {
+      "slug": "decision-fiscal-empresa",
+      "category": "Asesoría fiscal",
+      "h1": "Qué preguntar antes de una decisión fiscal",
+      "answer": "Una decisión fiscal debe considerar su operación, los documentos disponibles y las reglas aplicables. Revise sus implicaciones antes de ejecutarla.",
+      "sections": [
+        [
+          "Describa la operación completa",
+          "Explique qué desea realizar, quiénes participan y cuál es el objetivo empresarial. Una consulta aislada de su contexto puede dejar fuera aspectos relevantes."
+        ],
+        [
+          "Diferencie una alternativa de una garantía",
+          "La planeación fiscal analiza opciones dentro del marco legal. No implica un ahorro garantizado ni elimina el riesgo de revisión por la autoridad."
+        ],
+        [
+          "Pregunte qué documentación se necesita",
+          "Los contratos, registros y antecedentes pueden cambiar el análisis. Confirme los documentos necesarios y el alcance de cualquier opinión por escrito."
+        ],
+        [
+          "Confirme las reglas vigentes",
+          "No tome una publicación antigua como instrucción para una operación actual. Los requisitos, fechas y criterios deben verificarse para su situación y periodo."
+        ]
+      ]
+    },
+    "en": {
+      "slug": "business-tax-decisions",
+      "category": "Tax advisory",
+      "h1": "What to ask before a tax decision",
+      "answer": "A tax decision should consider your operations, available documents and applicable rules. Review its implications before carrying it out.",
+      "sections": [
+        [
+          "Describe the full transaction",
+          "Explain what you intend to do, who is involved and the business objective. Advice detached from context may overlook relevant matters."
+        ],
+        [
+          "Distinguish an option from a guarantee",
+          "Tax planning assesses alternatives within the legal framework. It does not guarantee savings or eliminate the risk of review by an authority."
+        ],
+        [
+          "Ask what documentation is needed",
+          "Contracts, records and background may affect the assessment. Confirm required documents and the scope of any written opinion."
+        ],
+        [
+          "Confirm current rules",
+          "Do not treat an old publication as instructions for a current transaction. Requirements, dates and criteria must be checked for your circumstances and period."
+        ]
+      ]
+    },
+    "service": 1
+  },
+  {
+    "es": {
+      "slug": "preparar-auditoria-financiera",
+      "category": "Auditoría",
+      "h1": "Cómo preparar una auditoría financiera",
+      "answer": "Empiece por el uso del informe: quién lo solicita, qué periodo necesita y cuáles son sus requisitos. Esto permite definir el encargo antes de contratar.",
+      "sections": [
+        [
+          "Identifique al destinatario",
+          "Un banco, un consejo o un socio pueden necesitar informes distintos. Comparta los requisitos por escrito para revisar si el encargo puede atenderse."
+        ],
+        [
+          "Delimite el periodo y la información",
+          "Confirme qué estados financieros y registros están disponibles. Señale asuntos pendientes de aclaración y quién puede responder las preguntas sobre la operación."
+        ],
+        [
+          "Organice responsabilidades",
+          "Designe responsables de proporcionar documentos y atender solicitudes. El alcance, las fechas y los entregables deben quedar acordados con la firma."
+        ],
+        [
+          "Comprenda las limitaciones",
+          "Una auditoría no garantiza detectar toda irregularidad. Tampoco permite prometer una opinión favorable antes de revisar la información. Pregunte por los objetivos y limitaciones del encargo."
+        ]
+      ]
+    },
+    "en": {
+      "slug": "prepare-financial-audit",
+      "category": "Audit",
+      "h1": "How to prepare for a financial audit",
+      "answer": "Start with the intended use of the report: who requests it, the period needed and their requirements. This helps define the engagement before commissioning work.",
+      "sections": [
+        [
+          "Identify the recipient",
+          "A bank, board or shareholder may need different reports. Share written requirements to assess whether the engagement can be undertaken."
+        ],
+        [
+          "Define the period and information",
+          "Confirm which financial statements and records are available. Identify outstanding questions and who can explain the operations."
+        ],
+        [
+          "Organize responsibilities",
+          "Assign people to provide documents and answer requests. Agree scope, dates and deliverables with the firm."
+        ],
+        [
+          "Understand the limitations",
+          "An audit cannot guarantee detection of every irregularity. A favorable opinion cannot be promised before the work is performed. Ask about objectives and limitations."
+        ]
+      ]
+    },
+    "service": 2
+  },
+  {
+    "es": {
+      "slug": "presupuesto-empresarial",
+      "category": "Finanzas",
+      "h1": "Un presupuesto que ayude a decidir",
+      "answer": "Un presupuesto útil conecta ingresos esperados, gastos y compromisos de efectivo. Revíselo con información de su operación y explique sus supuestos.",
+      "sections": [
+        [
+          "Separe ventas de efectivo",
+          "Una venta no significa que el dinero ya esté disponible. Considere cuándo espera cobrar y cuándo deberá pagar para identificar periodos que requieren atención."
+        ],
+        [
+          "Haga explícitos los supuestos",
+          "Documente las expectativas de ventas, costos y gastos. Distinga lo confirmado de las estimaciones. Esto permite entender por qué cambian los resultados."
+        ],
+        [
+          "Compare el plan con lo ocurrido",
+          "Revise diferencias relevantes y busque su explicación. Una variación puede reflejar una decisión, un cambio en la operación o información pendiente."
+        ],
+        [
+          "Defina qué decisiones siguen",
+          "Utilice la revisión para priorizar necesidades y evaluar alternativas. El presupuesto orienta la conversación; no garantiza ventas ni resultados futuros."
+        ]
+      ]
+    },
+    "en": {
+      "slug": "business-budget",
+      "category": "Finance",
+      "h1": "A budget that supports decisions",
+      "answer": "A useful budget connects expected revenue, expenses and cash commitments. Review it against your operations and explain its assumptions.",
+      "sections": [
+        [
+          "Separate sales from cash",
+          "A sale does not mean the money is already available. Consider expected collections and payment dates to identify periods requiring attention."
+        ],
+        [
+          "Make assumptions explicit",
+          "Document revenue, cost and expense expectations. Distinguish confirmed information from estimates so changes can be understood."
+        ],
+        [
+          "Compare the plan with actual results",
+          "Review significant differences and their causes. A variance may reflect a decision, an operational change or outstanding information."
+        ],
+        [
+          "Define the next decisions",
+          "Use the review to prioritize needs and evaluate alternatives. A budget supports discussion; it does not guarantee revenue or future results."
+        ]
+      ]
+    },
+    "service": 3
+  },
+  {
+    "es": {
+      "slug": "orden-administrativo-empresa",
+      "category": "Administración",
+      "h1": "Qué delegar en la administración de su empresa",
+      "answer": "Antes de delegar una actividad, defina qué se entrega, quién autoriza y cómo se revisa. Mantenga claras las responsabilidades de su empresa y del proveedor.",
+      "sections": [
+        [
+          "Identifique tareas y pendientes",
+          "Revise facturación, tesorería, cobranza, pagos, inventarios y recursos humanos. Determine dónde hay retrasos, duplicidades o información dispersa."
+        ],
+        [
+          "Defina autorizaciones",
+          "El apoyo operativo no sustituye las decisiones de su empresa. Acuerde responsables y autorizaciones para movimientos, documentos y comunicaciones."
+        ],
+        [
+          "Acuerde accesos y entregables",
+          "Precise qué sistemas e información se requieren. Defina reportes y evidencia de las actividades, junto con las condiciones para utilizar los accesos."
+        ],
+        [
+          "Revise el alcance antes de contratar",
+          "Los servicios administrativos no son equivalentes a cualquier modalidad de suministro de personal. Confirme la naturaleza del servicio y las obligaciones que puedan aplicar."
+        ]
+      ]
+    },
+    "en": {
+      "slug": "business-administration",
+      "category": "Administration",
+      "h1": "What to delegate in business administration",
+      "answer": "Before delegating an activity, define what is delivered, who authorizes it and how it is reviewed. Clarify the responsibilities of your business and the provider.",
+      "sections": [
+        [
+          "Identify tasks and outstanding matters",
+          "Review invoicing, treasury, collections, payments, inventory and human resources. Determine where delays, duplication or scattered information occur."
+        ],
+        [
+          "Define authorizations",
+          "Operational support does not replace your business decisions. Agree responsible people and authorizations for transactions, documents and communications."
+        ],
+        [
+          "Agree access and deliverables",
+          "Specify necessary systems and information. Define reports and evidence of activities, along with conditions for using access permissions."
+        ],
+        [
+          "Review scope before commissioning work",
+          "Administrative services are not interchangeable with every personnel supply arrangement. Confirm the nature of the service and any applicable obligations."
+        ]
+      ]
+    },
+    "service": 4
+  },
+  {
+    "es": {
+      "slug": "preparar-cierre-contable",
+      "category": "Contabilidad",
+      "h1": "Cómo ordenar el cierre contable de su empresa",
+      "answer": "Identifique información pendiente, revise los saldos que requieren explicación y acuerde responsables. El cierre debe permitir entender el periodo, no solo completar registros.",
+      "sections": [
+        [
+          "Revise los pendientes",
+          "Prepare una lista de documentos faltantes y operaciones sin aclarar. Priorice los asuntos que afectan la lectura de ingresos, gastos y compromisos."
+        ],
+        [
+          "Aclare diferencias relevantes",
+          "Compare registros y reportes disponibles. Solicite una explicación de las diferencias y documente las aclaraciones antes de tomar decisiones con esas cifras."
+        ],
+        [
+          "Coordine el calendario",
+          "Acuerde quién entrega información y cuándo se revisa. Las obligaciones y fechas aplicables deben confirmarse para el tipo de empresa y el periodo."
+        ],
+        [
+          "Conecte el cierre con sus decisiones",
+          "Utilice la información revisada para conversar sobre presupuesto, necesidades de efectivo y próximos compromisos. Un cierre no garantiza resultados futuros."
+        ]
+      ]
+    },
+    "en": {
+      "slug": "prepare-accounting-close",
+      "category": "Accounting",
+      "h1": "How to organize your accounting close",
+      "answer": "Identify missing information, review balances requiring explanation and agree responsibilities. The close should help explain the period as well as complete records.",
+      "sections": [
+        [
+          "Review outstanding matters",
+          "List missing documents and unexplained transactions. Prioritize issues that affect understanding of revenue, expenses and commitments."
+        ],
+        [
+          "Clarify significant differences",
+          "Compare available records and reports. Request explanations and document clarifications before making decisions using those figures."
+        ],
+        [
+          "Coordinate the schedule",
+          "Agree who provides information and when it is reviewed. Applicable obligations and dates should be confirmed for the business and period."
+        ],
+        [
+          "Connect the close with decisions",
+          "Use reviewed information to discuss the budget, cash needs and upcoming commitments. An accounting close does not guarantee future results."
+        ]
+      ]
+    },
+    "service": 0
+  }
+]
